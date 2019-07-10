@@ -1,0 +1,2351 @@
+Loading previous weights... Done.
+Remove food mnearest  0
+
+action: 2   reward: 0.008
+{'past_loc': [(2, 5)], 'curr_loc': [(3, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[1]], 'episode': [None], 'ghost_positions': [[(3.0, 2.0)]], 'ghost_in_frame': [False], 'score': 8.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.016
+{'past_loc': [(3, 5)], 'curr_loc': [(4, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[2]], 'episode': [None], 'ghost_positions': [[(3.0, 3.0)]], 'ghost_in_frame': [False], 'score': 16.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.024
+{'past_loc': [(4, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[3]], 'episode': [None], 'ghost_positions': [[(4.0, 3.0)]], 'ghost_in_frame': [False], 'score': 24.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.012
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [1], 'step_counter': [[4]], 'episode': [None], 'ghost_positions': [[(5.0, 3.0)]], 'ghost_in_frame': [False], 'score': 12.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.0
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [2], 'step_counter': [[5]], 'episode': [None], 'ghost_positions': [[(5.0, 4.0)]], 'ghost_in_frame': [True], 'score': 0.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.002
+{'past_loc': [(5, 5)], 'curr_loc': [(4, 5)], 'past_orientation': [[2]], 'curr_orientation': [[3]], 'illegal_move_counter': [2], 'step_counter': [[6]], 'episode': [None], 'ghost_positions': [[(5.0, 5.0)]], 'ghost_in_frame': [True], 'score': -2.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.004
+{'past_loc': [(4, 5)], 'curr_loc': [(3, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [2], 'step_counter': [[7]], 'episode': [None], 'ghost_positions': [[(4.0, 5.0)]], 'ghost_in_frame': [True], 'score': -4.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.006
+{'past_loc': [(3, 5)], 'curr_loc': [(2, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [2], 'step_counter': [[8]], 'episode': [None], 'ghost_positions': [[(3.0, 5.0)]], 'ghost_in_frame': [True], 'score': -6.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: 0.002
+{'past_loc': [(2, 5)], 'curr_loc': [(1, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [2], 'step_counter': [[9]], 'episode': [None], 'ghost_positions': [[(2.0, 5.0)]], 'ghost_in_frame': [True], 'score': 2.0, 'max_ep': False} 
+
+Remove food mnearest  0
+Pacman died! Score: -470
+
+action: 3   reward: -0.51
+{'past_loc': [(1, 5)], 'curr_loc': [(1, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [3], 'step_counter': [[10]], 'episode': [{'r': -510.0, 'l': 10}], 'ghost_positions': [[(1.0, 5.0)]], 'ghost_in_frame': [True], 'score': -510.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.008
+{'past_loc': [(2, 5)], 'curr_loc': [(3, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[1]], 'episode': [None], 'ghost_positions': [[(3.0, 2.0)]], 'ghost_in_frame': [False], 'score': 8.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.016
+{'past_loc': [(3, 5)], 'curr_loc': [(4, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[2]], 'episode': [None], 'ghost_positions': [[(3.0, 3.0)]], 'ghost_in_frame': [False], 'score': 16.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.024
+{'past_loc': [(4, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[3]], 'episode': [None], 'ghost_positions': [[(4.0, 3.0)]], 'ghost_in_frame': [False], 'score': 24.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.012
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [1], 'step_counter': [[4]], 'episode': [None], 'ghost_positions': [[(5.0, 3.0)]], 'ghost_in_frame': [False], 'score': 12.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.0
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [2], 'step_counter': [[5]], 'episode': [None], 'ghost_positions': [[(5.0, 4.0)]], 'ghost_in_frame': [True], 'score': 0.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.002
+{'past_loc': [(5, 5)], 'curr_loc': [(4, 5)], 'past_orientation': [[2]], 'curr_orientation': [[3]], 'illegal_move_counter': [2], 'step_counter': [[6]], 'episode': [None], 'ghost_positions': [[(5.0, 5.0)]], 'ghost_in_frame': [True], 'score': -2.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.004
+{'past_loc': [(4, 5)], 'curr_loc': [(3, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [2], 'step_counter': [[7]], 'episode': [None], 'ghost_positions': [[(4.0, 5.0)]], 'ghost_in_frame': [True], 'score': -4.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.006
+{'past_loc': [(3, 5)], 'curr_loc': [(2, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [2], 'step_counter': [[8]], 'episode': [None], 'ghost_positions': [[(3.0, 5.0)]], 'ghost_in_frame': [True], 'score': -6.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: 0.002
+{'past_loc': [(2, 5)], 'curr_loc': [(1, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [2], 'step_counter': [[9]], 'episode': [None], 'ghost_positions': [[(2.0, 5.0)]], 'ghost_in_frame': [True], 'score': 2.0, 'max_ep': False} 
+
+Remove food mnearest  0
+Pacman died! Score: -470
+
+action: 3   reward: -0.51
+{'past_loc': [(1, 5)], 'curr_loc': [(1, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [3], 'step_counter': [[10]], 'episode': [{'r': -510.0, 'l': 10}], 'ghost_positions': [[(1.0, 5.0)]], 'ghost_in_frame': [True], 'score': -510.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.008
+{'past_loc': [(2, 5)], 'curr_loc': [(3, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[1]], 'episode': [None], 'ghost_positions': [[(3.0, 2.0)]], 'ghost_in_frame': [False], 'score': 8.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.016
+{'past_loc': [(3, 5)], 'curr_loc': [(4, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[2]], 'episode': [None], 'ghost_positions': [[(3.0, 3.0)]], 'ghost_in_frame': [False], 'score': 16.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.024
+{'past_loc': [(4, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[3]], 'episode': [None], 'ghost_positions': [[(4.0, 3.0)]], 'ghost_in_frame': [False], 'score': 24.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.012
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [1], 'step_counter': [[4]], 'episode': [None], 'ghost_positions': [[(5.0, 3.0)]], 'ghost_in_frame': [False], 'score': 12.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.0
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [2], 'step_counter': [[5]], 'episode': [None], 'ghost_positions': [[(5.0, 4.0)]], 'ghost_in_frame': [True], 'score': 0.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.002
+{'past_loc': [(5, 5)], 'curr_loc': [(4, 5)], 'past_orientation': [[2]], 'curr_orientation': [[3]], 'illegal_move_counter': [2], 'step_counter': [[6]], 'episode': [None], 'ghost_positions': [[(5.0, 5.0)]], 'ghost_in_frame': [True], 'score': -2.0, 'max_ep': False}Process 0. Episode 0
+Remove food mnearest  0
+
+action: 2   reward: 0.008
+{'past_loc': [(2, 5)], 'curr_loc': [(3, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[1]], 'episode': [None], 'ghost_positions': [[(3.0, 2.0)]], 'ghost_in_frame': [False], 'score': 8.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.016
+{'past_loc': [(3, 5)], 'curr_loc': [(4, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[2]], 'episode': [None], 'ghost_positions': [[(3.0, 3.0)]], 'ghost_in_frame': [False], 'score': 16.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.024
+{'past_loc': [(4, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[3]], 'episode': [None], 'ghost_positions': [[(3.0, 4.0)]], 'ghost_in_frame': [False], 'score': 24.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.012
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [1], 'step_counter': [[4]], 'episode': [None], 'ghost_positions': [[(3.0, 5.0)]], 'ghost_in_frame': [False], 'score': 12.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.0
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [2], 'step_counter': [[5]], 'episode': [None], 'ghost_positions': [[(4.0, 5.0)]], 'ghost_in_frame': [True], 'score': 0.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.008
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 4)], 'past_orientation': [[2]], 'curr_orientation': [[1]], 'illegal_move_counter': [2], 'step_counter': [[6]], 'episode': [None], 'ghost_positions': [[(5.0, 5.0)]], 'ghost_in_frame': [True], 'score': 8.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.016
+{'past_loc': [(5, 4)], 'curr_loc': [(5, 3)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [2], 'step_counter': [[7]], 'episode': [None], 'ghost_positions': [[(5.0, 4.0)]], 'ghost_in_frame': [True], 'score': 16.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.024
+{'past_loc': [(5, 3)], 'curr_loc': [(5, 2)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [2], 'step_counter': [[8]], 'episode': [None], 'ghost_positions': [[(5.0, 3.0)]], 'ghost_in_frame': [True], 'score': 24.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.032
+{'past_loc': [(5, 2)], 'curr_loc': [(5, 1)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [2], 'step_counter': [[9]], 'episode': [None], 'ghost_positions': [[(5.0, 2.0)]], 'ghost_in_frame': [True], 'score': 32.0, 'max_ep': False} 
+
+Remove food mnearest  0
+Pacman died! Score: -440
+
+action: 1   reward: -0.48
+{'past_loc': [(5, 1)], 'curr_loc': [(5, 1)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [3], 'step_counter': [[10]], 'episode': [{'r': -480.0, 'l': 10}], 'ghost_positions': [[(5.0, 1.0)]], 'ghost_in_frame': [True], 'score': -480.0, 'max_ep': False} 
+
+Process 0. Episode 1
+Remove food mnearest  0
+
+action: 2   reward: 0.008
+{'past_loc': [(2, 5)], 'curr_loc': [(3, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[1]], 'episode': [None], 'ghost_positions': [[(3.0, 2.0)]], 'ghost_in_frame': [False], 'score': 8.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.016
+{'past_loc': [(3, 5)], 'curr_loc': [(4, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[2]], 'episode': [None], 'ghost_positions': [[(3.0, 3.0)]], 'ghost_in_frame': [False], 'score': 16.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.024
+{'past_loc': [(4, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[3]], 'episode': [None], 'ghost_positions': [[(4.0, 3.0)]], 'ghost_in_frame': [False], 'score': 24.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.012
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [1], 'step_counter': [[4]], 'episode': [None], 'ghost_positions': [[(5.0, 3.0)]], 'ghost_in_frame': [False], 'score': 12.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.0
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [2], 'step_counter': [[5]], 'episode': [None], 'ghost_positions': [[(5.0, 4.0)]], 'ghost_in_frame': [True], 'score': 0.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.002
+{'past_loc': [(5, 5)], 'curr_loc': [(4, 5)], 'past_orientation': [[2]], 'curr_orientation': [[3]], 'illegal_move_counter': [2], 'step_counter': [[6]], 'episode': [None], 'ghost_positions': [[(5.0, 5.0)]], 'ghost_in_frame': [True], 'score': -2.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.004
+{'past_loc': [(4, 5)], 'curr_loc': [(3, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [2], 'step_counter': [[7]], 'episode': [None], 'ghost_positions': [[(4.0, 5.0)]], 'ghost_in_frame': [True], 'score': -4.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.006
+{'past_loc': [(3, 5)], 'curr_loc': [(2, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [2], 'step_counter': [[8]], 'episode': [None], 'ghost_positions': [[(3.0, 5.0)]], 'ghost_in_frame': [True], 'score': -6.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: 0.002
+{'past_loc': [(2, 5)], 'curr_loc': [(1, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [2], 'step_counter': [[9]], 'episode': [None], 'ghost_positions': [[(2.0, 5.0)]], 'ghost_in_frame': [True], 'score': 2.0, 'max_ep': False} 
+
+Remove food mnearest  0
+Pacman died! Score: -470
+
+action: 3   reward: -0.51
+{'past_loc': [(1, 5)], 'curr_loc': [(1, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [3], 'step_counter': [[10]], 'episode': [{'r': -510.0, 'l': 10}], 'ghost_positions': [[(1.0, 5.0)]], 'ghost_in_frame': [True], 'score': -510.0, 'max_ep': False} 
+
+Process 0. Episode 2
+Remove food mnearest  0
+
+action: 2   reward: 0.008
+{'past_loc': [(2, 5)], 'curr_loc': [(3, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[1]], 'episode': [None], 'ghost_positions': [[(3.0, 2.0)]], 'ghost_in_frame': [False], 'score': 8.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.016
+{'past_loc': [(3, 5)], 'curr_loc': [(4, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[2]], 'episode': [None], 'ghost_positions': [[(3.0, 2.0)]], 'ghost_in_frame': [False], 'score': 16.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.024
+{'past_loc': [(4, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[3]], 'episode': [None], 'ghost_positions': [[(3.0, 3.0)]], 'ghost_in_frame': [False], 'score': 24.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.012
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [1], 'step_counter': [[4]], 'episode': [None], 'ghost_positions': [[(2.0, 3.0)]], 'ghost_in_frame': [False], 'score': 12.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.0
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [2], 'step_counter': [[5]], 'episode': [None], 'ghost_positions': [[(2.0, 3.0)]], 'ghost_in_frame': [False], 'score': 0.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.008
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 4)], 'past_orientation': [[2]], 'curr_orientation': [[1]], 'illegal_move_counter': [2], 'step_counter': [[6]], 'episode': [None], 'ghost_positions': [[(2.0, 3.0)]], 'ghost_in_frame': [False], 'score': 8.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.004
+{'past_loc': [(4, 5)], 'curr_loc': [(3, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [2], 'step_counter': [[7]], 'episode': [None], 'ghost_positions': [[(4.0, 5.0)]], 'ghost_in_frame': [True], 'score': -4.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.006
+{'past_loc': [(3, 5)], 'curr_loc': [(2, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [2], 'step_counter': [[8]], 'episode': [None], 'ghost_positions': [[(3.0, 5.0)]], 'ghost_in_frame': [True], 'score': -6.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: 0.002
+{'past_loc': [(2, 5)], 'curr_loc': [(1, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [2], 'step_counter': [[9]], 'episode': [None], 'ghost_positions': [[(2.0, 5.0)]], 'ghost_in_frame': [True], 'score': 2.0, 'max_ep': False} 
+
+Remove food mnearest  0
+Pacman died! Score: -470
+
+action: 3   reward: -0.51
+{'past_loc': [(1, 5)], 'curr_loc': [(1, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [3], 'step_counter': [[10]], 'episode': [{'r': -510.0, 'l': 10}], 'ghost_positions': [[(1.0, 5.0)]], 'ghost_in_frame': [True], 'score': -510.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.008
+{'past_loc': [(2, 5)], 'curr_loc': [(3, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[1]], 'episode': [None], 'ghost_positions': [[(3.0, 2.0)]], 'ghost_in_frame': [False], 'score': 8.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.016
+{'past_loc': [(3, 5)], 'curr_loc': [(4, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[2]], 'episode': [None], 'ghost_positions': [[(3.0, 3.0)]], 'ghost_in_frame': [False], 'score': 16.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.024
+{'past_loc': [(4, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[3]], 'episode': [None], 'ghost_positions': [[(3.0, 4.0)]], 'ghost_in_frame': [False], 'score': 24.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.012
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [1], 'step_counter': [[4]], 'episode': [None], 'ghost_positions': [[(3.0, 5.0)]], 'ghost_in_frame': [False], 'score': 12.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.0
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [2], 'step_counter': [[5]], 'episode': [None], 'ghost_positions': [[(4.0, 5.0)]], 'ghost_in_frame': [True], 'score': 0.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.008
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 4)], 'past_orientation': [[2]], 'curr_orientation': [[1]], 'illegal_move_counter': [2], 'step_counter': [[6]], 'episode': [None], 'ghost_positions': [[(4.0, 5.0)]], 'ghost_in_frame': [True], 'score': 8.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.016
+{'past_loc': [(5, 4)], 'curr_loc': [(5, 3)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [2], 'step_counter': [[7]], 'episode': [None], 'ghost_positions': [[(5.0, 5.0)]], 'ghost_in_frame': [False], 'score': 16.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.024
+{'past_loc': [(5, 3)], 'curr_loc': [(5, 2)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [2], 'step_counter': [[8]], 'episode': [None], 'ghost_positions': [[(5.0, 4.0)]], 'ghost_in_frame': [False], 'score': 24.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.032
+{'past_loc': [(5, 2)], 'curr_loc': [(5, 1)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [2], 'step_counter': [[9]], 'episode': [None], 'ghost_positions': [[(5.0, 3.0)]], 'ghost_in_frame': [False], 'score': 32.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.02
+{'past_loc': [(5, 1)], 'curr_loc': [(5, 1)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [3], 'step_counter': [[10]], 'episode': [None], 'ghost_positions': [[(5.0, 2.0)]], 'ghost_in_frame': [True], 'score': 20.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: 0.028
+{'past_loc': [(5, 1)], 'curr_loc': [(4, 1)], 'past_orientation': [[1]], 'curr_orientation': [[3]], 'illegal_move_counter': [3], 'step_counter': [[11]], 'episode': [None], 'ghost_positions': [[(5.0, 2.0)]], 'ghost_in_frame': [True], 'score': 28.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: 0.026
+{'past_loc': [(4, 1)], 'curr_loc': [(3, 1)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [3], 'step_counter': [[12]], 'episode': [None], 'ghost_positions': [[(5.0, 1.0)]], 'ghost_in_frame': [False], 'score': 26.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: 0.034
+{'past_loc': [(3, 1)], 'curr_loc': [(2, 1)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [3], 'step_counter': [[13]], 'episode': [None], 'ghost_positions': [[(4.0, 1.0)]], 'ghost_in_frame': [False], 'score': 34.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: 0.042
+{'past_loc': [(2, 1)], 'curr_loc': [(1, 1)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [3], 'step_counter': [[14]], 'episode': [None], 'ghost_positions': [[(3.0, 1.0)]], 'ghost_in_frame': [False], 'score': 42.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: 0.03
+{'past_loc': [(1, 1)], 'curr_loc': [(1, 1)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [4], 'step_counter': [[15]], 'episode': [None], 'ghost_positions': [[(2.0, 1.0)]], 'ghost_in_frame': [True], 'score': 30.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 0   reward: 0.038
+{'past_loc': [(1, 1)], 'curr_loc': [(1, 2)], 'past_orientation': [[3]], 'curr_orientation': [[0]], 'illegal_move_counter': [4], 'step_counter': [[16]], 'episode': [None], 'ghost_positions': [[(1.0, 1.0)]], 'ghost_in_frame': [True], 'score': 38.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 0   reward: 0.046
+{'past_loc': [(1, 2)], 'curr_loc': [(1, 3)], 'past_orientation': [[0]], 'curr_orientation': [[0]], 'illegal_move_counter': [4], 'step_counter': [[17]], 'episode': [None], 'ghost_positions': [[(1.0, 2.0)]], 'ghost_in_frame': [True], 'score': 46.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 0   reward: 0.054
+{'past_loc': [(1, 3)], 'curr_loc': [(1, 4)], 'past_orientation': [[0]], 'curr_orientation': [[0]], 'illegal_move_counter': [4], 'step_counter': [[18]], 'episode': [None], 'ghost_positions': [[(1.0, 3.0)]], 'ghost_in_frame': [True], 'score': 54.0, 'max_ep': False} 
+
+Remove food mnearest  0
+entra a consume > numFood: 0
+Pacman emerges victorious! Score: 621
+
+action: 0   reward: 0.562
+{'past_loc': [(1, 4)], 'curr_loc': [(1, 5)], 'past_orientation': [[0]], 'curr_orientation': [[0]], 'illegal_move_counter': [4], 'step_counter': [[19]], 'episode': [{'r': 562.0, 'l': 19}], 'ghost_positions': [[(1.0, 3.0)]], 'ghost_in_frame': [False], 'score': 562.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.008
+{'past_loc': [(2, 5)], 'curr_loc': [(3, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[1]], 'episode': [None], 'ghost_positions': [[(3.0, 2.0)]], 'ghost_in_frame': [False], 'score': 8.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.016
+{'past_loc': [(3, 5)], 'curr_loc': [(4, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[2]], 'episode': [None], 'ghost_positions': [[(3.0, 3.0)]], 'ghost_in_frame': [False], 'score': 16.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.024
+{'past_loc': [(4, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[3]], 'episode': [None], 'ghost_positions': [[(4.0, 3.0)]], 'ghost_in_frame': [False], 'score': 24.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.016
+{'past_loc': [(5, 4)], 'curr_loc': [(5, 3)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [2], 'step_counter': [[7]], 'episode': [None], 'ghost_positions': [[(2.0, 3.0)]], 'ghost_in_frame': [False], 'score': 16.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.024
+{'past_loc': [(5, 3)], 'curr_loc': [(5, 2)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [2], 'step_counter': [[8]], 'episode': [None], 'ghost_positions': [[(2.0, 3.0)]], 'ghost_in_frame': [False], 'score': 24.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.032
+{'past_loc': [(5, 2)], 'curr_loc': [(5, 1)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [2], 'step_counter': [[9]], 'episode': [None], 'ghost_positions': [[(1.0, 3.0)]], 'ghost_in_frame': [False], 'score': 32.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.02
+{'past_loc': [(5, 1)], 'curr_loc': [(5, 1)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [3], 'step_counter': [[10]], 'episode': [None], 'ghost_positions': [[(1.0, 4.0)]], 'ghost_in_frame': [False], 'score': 20.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: 0.028
+{'past_loc': [(5, 1)], 'curr_loc': [(4, 1)], 'past_orientation': [[1]], 'curr_orientation': [[3]], 'illegal_move_counter': [3], 'step_counter': [[11]], 'episode': [None], 'ghost_positions': [[(1.0, 4.0)]], 'ghost_in_frame': [False], 'score': 28.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: 0.026
+{'past_loc': [(4, 1)], 'curr_loc': [(3, 1)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [3], 'step_counter': [[12]], 'episode': [None], 'ghost_positions': [[(1.0, 4.0)]], 'ghost_in_frame': [False], 'score': 26.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: 0.034
+{'past_loc': [(3, 1)], 'curr_loc': [(2, 1)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [3], 'step_counter': [[13]], 'episode': [None], 'ghost_positions': [[(1.0, 4.0)]], 'ghost_in_frame': [False], 'score': 34.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: 0.042
+{'past_loc': [(2, 1)], 'curr_loc': [(1, 1)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [3], 'step_counter': [[14]], 'episode': [None], 'ghost_positions': [[(1.0, 4.0)]], 'ghost_in_frame': [False], 'score': 42.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: 0.03
+{'past_loc': [(1, 1)], 'curr_loc': [(1, 1)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [4], 'step_counter': [[15]], 'episode': [None], 'ghost_positions': [[(1.0, 4.0)]], 'ghost_in_frame': [False], 'score': 30.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 0   reward: 0.038
+{'past_loc': [(1, 1)], 'curr_loc': [(1, 2)], 'past_orientation': [[3]], 'curr_orientation': [[0]], 'illegal_move_counter': [4], 'step_counter': [[16]], 'episode': [None], 'ghost_positions': [[(1.0, 4.0)]], 'ghost_in_frame': [False], 'score': 38.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 0   reward: 0.046
+{'past_loc': [(1, 2)], 'curr_loc': [(1, 3)], 'past_orientation': [[0]], 'curr_orientation': [[0]], 'illegal_move_counter': [4], 'step_counter': [[17]], 'episode': [None], 'ghost_positions': [[(1.0, 4.0)]], 'ghost_in_frame': [True], 'score': 46.0, 'max_ep': False} 
+
+Remove food mnearest  0
+Pacman died! Score: -388
+
+action: 0   reward: -0.446
+{'past_loc': [(1, 3)], 'curr_loc': [(1, 4)], 'past_orientation': [[0]], 'curr_orientation': [[0]], 'illegal_move_counter': [4], 'step_counter': [[18]], 'episode': [{'r': -446.0, 'l': 18}], 'ghost_positions': [[(1.0, 4.0)]], 'ghost_in_frame': [True], 'score': -446.0, 'max_ep': False} 
+
+Process 0. Episode 3
+Remove food mnearest  0
+
+action: 2   reward: 0.008
+{'past_loc': [(2, 5)], 'curr_loc': [(3, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[1]], 'episode': [None], 'ghost_positions': [[(3.0, 2.0)]], 'ghost_in_frame': [False], 'score': 8.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.016
+{'past_loc': [(3, 5)], 'curr_loc': [(4, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[2]], 'episode': [None], 'ghost_positions': [[(3.0, 3.0)]], 'ghost_in_frame': [False], 'score': 16.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.024
+{'past_loc': [(4, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[3]], 'episode': [None], 'ghost_positions': [[(3.0, 4.0)]], 'ghost_in_frame': [False], 'score': 24.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.012
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [1], 'step_counter': [[4]], 'episode': [None], 'ghost_positions': [[(3.0, 5.0)]], 'ghost_in_frame': [False], 'score': 12.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.0
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [2], 'step_counter': [[5]], 'episode': [None], 'ghost_positions': [[(4.0, 5.0)]], 'ghost_in_frame': [True], 'score': 0.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.008
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 4)], 'past_orientation': [[2]], 'curr_orientation': [[1]], 'illegal_move_counter': [2], 'step_counter': [[6]], 'episode': [None], 'ghost_positions': [[(5.0, 5.0)]], 'ghost_in_frame': [True], 'score': 8.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.016
+{'past_loc': [(5, 4)], 'curr_loc': [(5, 3)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [2], 'step_counter': [[7]], 'episode': [None], 'ghost_positions': [[(5.0, 4.0)]], 'ghost_in_frame': [True], 'score': 16.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.024
+{'past_loc': [(5, 3)], 'curr_loc': [(5, 2)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [2], 'step_counter': [[8]], 'episode': [None], 'ghost_positions': [[(5.0, 3.0)]], 'ghost_in_frame': [True], 'score': 24.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.032
+{'past_loc': [(5, 2)], 'curr_loc': [(5, 1)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [2], 'step_counter': [[9]], 'episode': [None], 'ghost_positions': [[(5.0, 2.0)]], 'ghost_in_frame': [True], 'score': 32.0, 'max_ep': False} 
+
+Remove food mnearest  0
+Pacman died! Score: -440
+
+action: 1   reward: -0.48
+{'past_loc': [(5, 1)], 'curr_loc': [(5, 1)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [3], 'step_counter': [[10]], 'episode': [{'r': -480.0, 'l': 10}], 'ghost_positions': [[(5.0, 1.0)]], 'ghost_in_frame': [True], 'score': -480.0, 'max_ep': False} 
+
+Process 0. Episode 4
+Remove food mnearest  0
+
+action: 2   reward: 0.008
+{'past_loc': [(2, 5)], 'curr_loc': [(3, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[1]], 'episode': [None], 'ghost_positions': [[(3.0, 2.0)]], 'ghost_in_frame': [False], 'score': 8.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.016
+{'past_loc': [(3, 5)], 'curr_loc': [(4, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[2]], 'episode': [None], 'ghost_positions': [[(3.0, 3.0)]], 'ghost_in_frame': [False], 'score': 16.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.024
+{'past_loc': [(4, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[3]], 'episode': [None], 'ghost_positions': [[(4.0, 3.0)]], 'ghost_in_frame': [False], 'score': 24.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.012
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [1], 'step_counter': [[4]], 'episode': [None], 'ghost_positions': [[(5.0, 3.0)]], 'ghost_in_frame': [False], 'score': 12.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.012
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [1], 'step_counter': [[4]], 'episode': [None], 'ghost_positions': [[(5.0, 3.0)]], 'ghost_in_frame': [False], 'score': 12.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.0
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [2], 'step_counter': [[5]], 'episode': [None], 'ghost_positions': [[(5.0, 4.0)]], 'ghost_in_frame': [True], 'score': 0.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.002
+{'past_loc': [(5, 5)], 'curr_loc': [(4, 5)], 'past_orientation': [[2]], 'curr_orientation': [[3]], 'illegal_move_counter': [2], 'step_counter': [[6]], 'episode': [None], 'ghost_positions': [[(5.0, 5.0)]], 'ghost_in_frame': [True], 'score': -2.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.004
+{'past_loc': [(4, 5)], 'curr_loc': [(3, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [2], 'step_counter': [[7]], 'episode': [None], 'ghost_positions': [[(4.0, 5.0)]], 'ghost_in_frame': [True], 'score': -4.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.006
+{'past_loc': [(3, 5)], 'curr_loc': [(2, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [2], 'step_counter': [[8]], 'episode': [None], 'ghost_positions': [[(4.0, 5.0)]], 'ghost_in_frame': [False], 'score': -6.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: 0.002
+{'past_loc': [(2, 5)], 'curr_loc': [(1, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [2], 'step_counter': [[9]], 'episode': [None], 'ghost_positions': [[(3.0, 5.0)]], 'ghost_in_frame': [False], 'score': 2.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.01
+{'past_loc': [(1, 5)], 'curr_loc': [(1, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [3], 'step_counter': [[10]], 'episode': [None], 'ghost_positions': [[(2.0, 5.0)]], 'ghost_in_frame': [True], 'score': -10.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: -0.002
+{'past_loc': [(1, 5)], 'curr_loc': [(1, 4)], 'past_orientation': [[3]], 'curr_orientation': [[1]], 'illegal_move_counter': [3], 'step_counter': [[11]], 'episode': [None], 'ghost_positions': [[(1.0, 5.0)]], 'ghost_in_frame': [True], 'score': -2.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.006
+{'past_loc': [(1, 4)], 'curr_loc': [(1, 3)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [3], 'step_counter': [[12]], 'episode': [None], 'ghost_positions': [[(1.0, 4.0)]], 'ghost_in_frame': [True], 'score': 6.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.014
+{'past_loc': [(1, 3)], 'curr_loc': [(1, 2)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [3], 'step_counter': [[13]], 'episode': [None], 'ghost_positions': [[(1.0, 4.0)]], 'ghost_in_frame': [False], 'score': 14.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.022
+{'past_loc': [(1, 2)], 'curr_loc': [(1, 1)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [3], 'step_counter': [[14]], 'episode': [None], 'ghost_positions': [[(1.0, 3.0)]], 'ghost_in_frame': [False], 'score': 22.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.01
+{'past_loc': [(1, 1)], 'curr_loc': [(1, 1)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [4], 'step_counter': [[15]], 'episode': [None], 'ghost_positions': [[(1.0, 2.0)]], 'ghost_in_frame': [True], 'score': 10.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.018
+{'past_loc': [(1, 1)], 'curr_loc': [(2, 1)], 'past_orientation': [[1]], 'curr_orientation': [[2]], 'illegal_move_counter': [4], 'step_counter': [[16]], 'episode': [None], 'ghost_positions': [[(1.0, 1.0)]], 'ghost_in_frame': [True], 'score': 18.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.016
+{'past_loc': [(2, 1)], 'curr_loc': [(3, 1)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [4], 'step_counter': [[17]], 'episode': [None], 'ghost_positions': [[(2.0, 1.0)]], 'ghost_in_frame': [True], 'score': 16.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.024
+{'past_loc': [(3, 1)], 'curr_loc': [(4, 1)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [4], 'step_counter': [[18]], 'episode': [None], 'ghost_positions': [[(3.0, 1.0)]], 'ghost_in_frame': [True], 'score': 24.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.032
+{'past_loc': [(4, 1)], 'curr_loc': [(5, 1)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [4], 'step_counter': [[19]], 'episode': [None], 'ghost_positions': [[(4.0, 1.0)]], 'ghost_in_frame': [True], 'score': 32.0, 'max_ep': False} 
+
+Remove food mnearest  0
+Pacman died! Score: -410
+
+action: 2   reward: -0.48
+{'past_loc': [(5, 1)], 'curr_loc': [(5, 1)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [5], 'step_counter': [[20]], 'episode': [{'r': -480.0, 'l': 20}], 'ghost_positions': [[(5.0, 1.0)]], 'ghost_in_frame': [True], 'score': -480.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.008
+{'past_loc': [(2, 5)], 'curr_loc': [(3, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[1]], 'episode': [None], 'ghost_positions': [[(3.0, 2.0)]], 'ghost_in_frame': [False], 'score': 8.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.016
+{'past_loc': [(3, 5)], 'curr_loc': [(4, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[2]], 'episode': [None], 'ghost_positions': [[(3.0, 3.0)]], 'ghost_in_frame': [False], 'score': 16.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.024
+{'past_loc': [(4, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[3]], 'episode': [None], 'ghost_positions': [[(4.0, 3.0)]], 'ghost_in_frame': [False], 'score': 24.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.012
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [1], 'step_counter': [[4]], 'episode': [None], 'ghost_positions': [[(5.0, 3.0)]], 'ghost_in_frame': [False], 'score': 12.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.0
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [2], 'step_counter': [[5]], 'episode': [None], 'ghost_positions': [[(5.0, 4.0)]], 'ghost_in_frame': [True], 'score': 0.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.002
+{'past_loc': [(5, 5)], 'curr_loc': [(4, 5)], 'past_orientation': [[2]], 'curr_orientation': [[3]], 'illegal_move_counter': [2], 'step_counter': [[6]], 'episode': [None], 'ghost_positions': [[(5.0, 5.0)]], 'ghost_in_frame': [True], 'score': -2.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.004
+{'past_loc': [(4, 5)], 'curr_loc': [(3, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [2], 'step_counter': [[7]], 'episode': [None], 'ghost_positions': [[(4.0, 5.0)]], 'ghost_in_frame': [True], 'score': -4.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.006
+{'past_loc': [(3, 5)], 'curr_loc': [(2, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [2], 'step_counter': [[8]], 'episode': [None], 'ghost_positions': [[(3.0, 5.0)]], 'ghost_in_frame': [True], 'score': -6.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: 0.002
+{'past_loc': [(2, 5)], 'curr_loc': [(1, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [2], 'step_counter': [[9]], 'episode': [None], 'ghost_positions': [[(2.0, 5.0)]], 'ghost_in_frame': [True], 'score': 2.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.0
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [2], 'step_counter': [[5]], 'episode': [None], 'ghost_positions': [[(5.0, 2.0)]], 'ghost_in_frame': [False], 'score': 0.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.002
+{'past_loc': [(5, 5)], 'curr_loc': [(4, 5)], 'past_orientation': [[2]], 'curr_orientation': [[3]], 'illegal_move_counter': [2], 'step_counter': [[6]], 'episode': [None], 'ghost_positions': [[(5.0, 2.0)]], 'ghost_in_frame': [False], 'score': -2.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.004
+{'past_loc': [(4, 5)], 'curr_loc': [(3, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [2], 'step_counter': [[7]], 'episode': [None], 'ghost_positions': [[(5.0, 2.0)]], 'ghost_in_frame': [False], 'score': -4.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.006
+{'past_loc': [(3, 5)], 'curr_loc': [(2, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [2], 'step_counter': [[8]], 'episode': [None], 'ghost_positions': [[(5.0, 2.0)]], 'ghost_in_frame': [False], 'score': -6.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: 0.002
+{'past_loc': [(2, 5)], 'curr_loc': [(1, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [2], 'step_counter': [[9]], 'episode': [None], 'ghost_positions': [[(5.0, 2.0)]], 'ghost_in_frame': [False], 'score': 2.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.01
+{'past_loc': [(1, 5)], 'curr_loc': [(1, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [3], 'step_counter': [[10]], 'episode': [None], 'ghost_positions': [[(5.0, 2.0)]], 'ghost_in_frame': [False], 'score': -10.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: -0.002
+{'past_loc': [(1, 5)], 'curr_loc': [(1, 4)], 'past_orientation': [[3]], 'curr_orientation': [[1]], 'illegal_move_counter': [3], 'step_counter': [[11]], 'episode': [None], 'ghost_positions': [[(5.0, 1.0)]], 'ghost_in_frame': [False], 'score': -2.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.006
+{'past_loc': [(1, 4)], 'curr_loc': [(1, 3)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [3], 'step_counter': [[12]], 'episode': [None], 'ghost_positions': [[(4.0, 1.0)]], 'ghost_in_frame': [False], 'score': 6.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.014
+{'past_loc': [(1, 3)], 'curr_loc': [(1, 2)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [3], 'step_counter': [[13]], 'episode': [None], 'ghost_positions': [[(3.0, 1.0)]], 'ghost_in_frame': [False], 'score': 14.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.022
+{'past_loc': [(1, 2)], 'curr_loc': [(1, 1)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [3], 'step_counter': [[14]], 'episode': [None], 'ghost_positions': [[(2.0, 1.0)]], 'ghost_in_frame': [True], 'score': 22.0, 'max_ep': False} 
+
+Remove food mnearest  0
+Pacman died! Score: -435
+
+action: 1   reward: -0.49
+{'past_loc': [(1, 1)], 'curr_loc': [(1, 1)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [4], 'step_counter': [[15]], 'episode': [{'r': -490.0, 'l': 15}], 'ghost_positions': [[(1.0, 1.0)]], 'ghost_in_frame': [True], 'score': -490.0, 'max_ep': False} 
+
+Process 0. Episode 5
+Remove food mnearest  0
+
+action: 2   reward: 0.008
+{'past_loc': [(2, 5)], 'curr_loc': [(3, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[1]], 'episode': [None], 'ghost_positions': [[(3.0, 2.0)]], 'ghost_in_frame': [False], 'score': 8.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.016
+{'past_loc': [(3, 5)], 'curr_loc': [(4, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[2]], 'episode': [None], 'ghost_positions': [[(3.0, 3.0)]], 'ghost_in_frame': [False], 'score': 16.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.024
+{'past_loc': [(4, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[3]], 'episode': [None], 'ghost_positions': [[(3.0, 4.0)]], 'ghost_in_frame': [False], 'score': 24.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.012
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [1], 'step_counter': [[4]], 'episode': [None], 'ghost_positions': [[(3.0, 5.0)]], 'ghost_in_frame': [False], 'score': 12.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.0
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [2], 'step_counter': [[5]], 'episode': [None], 'ghost_positions': [[(4.0, 5.0)]], 'ghost_in_frame': [True], 'score': 0.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.008
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 4)], 'past_orientation': [[2]], 'curr_orientation': [[1]], 'illegal_move_counter': [2], 'step_counter': [[6]], 'episode': [None], 'ghost_positions': [[(5.0, 5.0)]], 'ghost_in_frame': [True], 'score': 8.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.016
+{'past_loc': [(5, 4)], 'curr_loc': [(5, 3)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [2], 'step_counter': [[7]], 'episode': [None], 'ghost_positions': [[(5.0, 4.0)]], 'ghost_in_frame': [True], 'score': 16.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.024
+{'past_loc': [(5, 3)], 'curr_loc': [(5, 2)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [2], 'step_counter': [[8]], 'episode': [None], 'ghost_positions': [[(5.0, 3.0)]], 'ghost_in_frame': [True], 'score': 24.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.032
+{'past_loc': [(5, 2)], 'curr_loc': [(5, 1)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [2], 'step_counter': [[9]], 'episode': [None], 'ghost_positions': [[(5.0, 2.0)]], 'ghost_in_frame': [True], 'score': 32.0, 'max_ep': False} 
+
+Remove food mnearest  0
+Pacman died! Score: -440
+
+action: 1   reward: -0.48
+{'past_loc': [(5, 1)], 'curr_loc': [(5, 1)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [3], 'step_counter': [[10]], 'episode': [{'r': -480.0, 'l': 10}], 'ghost_positions': [[(5.0, 1.0)]], 'ghost_in_frame': [True], 'score': -480.0, 'max_ep': False} 
+
+Process 0. Episode 6
+Remove food mnearest  0
+
+action: 2   reward: 0.008
+{'past_loc': [(2, 5)], 'curr_loc': [(3, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[1]], 'episode': [None], 'ghost_positions': [[(3.0, 2.0)]], 'ghost_in_frame': [False], 'score': 8.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.016
+{'past_loc': [(3, 5)], 'curr_loc': [(4, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[2]], 'episode': [None], 'ghost_positions': [[(3.0, 2.0)]], 'ghost_in_frame': [False], 'score': 16.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.024
+{'past_loc': [(4, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[3]], 'episode': [None], 'ghost_positions': [[(3.0, 3.0)]], 'ghost_in_frame': [False], 'score': 24.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.012
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [1], 'step_counter': [[4]], 'episode': [None], 'ghost_positions': [[(4.0, 3.0)]], 'ghost_in_frame': [False], 'score': 12.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.0
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [2], 'step_counter': [[5]], 'episode': [None], 'ghost_positions': [[(5.0, 3.0)]], 'ghost_in_frame': [False], 'score': 0.0, 'max_ep': False} 
+
+Remove food mnearest  0
+Pacman died! Score: -470
+
+action: 3   reward: -0.51
+{'past_loc': [(1, 5)], 'curr_loc': [(1, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [3], 'step_counter': [[10]], 'episode': [{'r': -510.0, 'l': 10}], 'ghost_positions': [[(1.0, 5.0)]], 'ghost_in_frame': [True], 'score': -510.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.008
+{'past_loc': [(2, 5)], 'curr_loc': [(3, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[1]], 'episode': [None], 'ghost_positions': [[(3.0, 2.0)]], 'ghost_in_frame': [False], 'score': 8.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.016
+{'past_loc': [(3, 5)], 'curr_loc': [(4, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[2]], 'episode': [None], 'ghost_positions': [[(3.0, 3.0)]], 'ghost_in_frame': [False], 'score': 16.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.024
+{'past_loc': [(4, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[3]], 'episode': [None], 'ghost_positions': [[(3.0, 4.0)]], 'ghost_in_frame': [False], 'score': 24.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.012
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [1], 'step_counter': [[4]], 'episode': [None], 'ghost_positions': [[(3.0, 5.0)]], 'ghost_in_frame': [False], 'score': 12.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.0
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [2], 'step_counter': [[5]], 'episode': [None], 'ghost_positions': [[(4.0, 5.0)]], 'ghost_in_frame': [True], 'score': 0.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.008
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 4)], 'past_orientation': [[2]], 'curr_orientation': [[1]], 'illegal_move_counter': [2], 'step_counter': [[6]], 'episode': [None], 'ghost_positions': [[(5.0, 5.0)]], 'ghost_in_frame': [True], 'score': 8.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.016
+{'past_loc': [(5, 4)], 'curr_loc': [(5, 3)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [2], 'step_counter': [[7]], 'episode': [None], 'ghost_positions': [[(5.0, 4.0)]], 'ghost_in_frame': [True], 'score': 16.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.024
+{'past_loc': [(5, 3)], 'curr_loc': [(5, 2)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [2], 'step_counter': [[8]], 'episode': [None], 'ghost_positions': [[(5.0, 3.0)]], 'ghost_in_frame': [True], 'score': 24.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.032
+{'past_loc': [(5, 2)], 'curr_loc': [(5, 1)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [2], 'step_counter': [[9]], 'episode': [None], 'ghost_positions': [[(5.0, 2.0)]], 'ghost_in_frame': [True], 'score': 32.0, 'max_ep': False} 
+
+Remove food mnearest  0
+Pacman died! Score: -440
+
+action: 1   reward: -0.48
+{'past_loc': [(5, 1)], 'curr_loc': [(5, 1)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [3], 'step_counter': [[10]], 'episode': [{'r': -480.0, 'l': 10}], 'ghost_positions': [[(5.0, 1.0)]], 'ghost_in_frame': [True], 'score': -480.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.008
+{'past_loc': [(2, 5)], 'curr_loc': [(3, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[1]], 'episode': [None], 'ghost_positions': [[(3.0, 2.0)]], 'ghost_in_frame': [False], 'score': 8.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.016
+{'past_loc': [(3, 5)], 'curr_loc': [(4, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[2]], 'episode': [None], 'ghost_positions': [[(3.0, 3.0)]], 'ghost_in_frame': [False], 'score': 16.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.024
+{'past_loc': [(4, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[3]], 'episode': [None], 'ghost_positions': [[(3.0, 3.0)]], 'ghost_in_frame': [False], 'score': 24.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.012
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [1], 'step_counter': [[4]], 'episode': [None], 'ghost_positions': [[(3.0, 4.0)]], 'ghost_in_frame': [False], 'score': 12.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.0
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [2], 'step_counter': [[5]], 'episode': [None], 'ghost_positions': [[(3.0, 5.0)]], 'ghost_in_frame': [False], 'score': 0.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.008
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 4)], 'past_orientation': [[2]], 'curr_orientation': [[1]], 'illegal_move_counter': [2], 'step_counter': [[6]], 'episode': [None], 'ghost_positions': [[(4.0, 5.0)]], 'ghost_in_frame': [True], 'score': 8.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.016
+{'past_loc': [(5, 4)], 'curr_loc': [(5, 3)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [2], 'step_counter': [[7]], 'episode': [None], 'ghost_positions': [[(5.0, 5.0)]], 'ghost_in_frame': [False], 'score': 16.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.024
+{'past_loc': [(5, 3)], 'curr_loc': [(5, 2)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [2], 'step_counter': [[8]], 'episode': [None], 'ghost_positions': [[(5.0, 4.0)]], 'ghost_in_frame': [False], 'score': 24.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.032
+{'past_loc': [(5, 2)], 'curr_loc': [(5, 1)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [2], 'step_counter': [[9]], 'episode': [None], 'ghost_positions': [[(5.0, 3.0)]], 'ghost_in_frame': [False], 'score': 32.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.02
+{'past_loc': [(5, 1)], 'curr_loc': [(5, 1)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [3], 'step_counter': [[10]], 'episode': [None], 'ghost_positions': [[(5.0, 2.0)]], 'ghost_in_frame': [True], 'score': 20.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: 0.028
+{'past_loc': [(5, 1)], 'curr_loc': [(4, 1)], 'past_orientation': [[1]], 'curr_orientation': [[3]], 'illegal_move_counter': [3], 'step_counter': [[11]], 'episode': [None], 'ghost_positions': [[(5.0, 1.0)]], 'ghost_in_frame': [True], 'score': 28.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: 0.026
+{'past_loc': [(4, 1)], 'curr_loc': [(3, 1)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [3], 'step_counter': [[12]], 'episode': [None], 'ghost_positions': [[(4.0, 1.0)]], 'ghost_in_frame': [True], 'score': 26.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: 0.034
+{'past_loc': [(3, 1)], 'curr_loc': [(2, 1)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [3], 'step_counter': [[13]], 'episode': [None], 'ghost_positions': [[(3.0, 1.0)]], 'ghost_in_frame': [True], 'score': 34.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: 0.042
+{'past_loc': [(2, 1)], 'curr_loc': [(1, 1)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [3], 'step_counter': [[14]], 'episode': [None], 'ghost_positions': [[(2.0, 1.0)]], 'ghost_in_frame': [True], 'score': 42.0, 'max_ep': False} 
+
+Remove food mnearest  0
+Pacman died! Score: -415
+
+action: 3   reward: -0.47
+{'past_loc': [(1, 1)], 'curr_loc': [(1, 1)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [4], 'step_counter': [[15]], 'episode': [{'r': -470.0, 'l': 15}], 'ghost_positions': [[(1.0, 1.0)]], 'ghost_in_frame': [True], 'score': -470.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.002
+{'past_loc': [(5, 5)], 'curr_loc': [(4, 5)], 'past_orientation': [[2]], 'curr_orientation': [[3]], 'illegal_move_counter': [2], 'step_counter': [[6]], 'episode': [None], 'ghost_positions': [[(5.0, 4.0)]], 'ghost_in_frame': [True], 'score': -2.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.004
+{'past_loc': [(4, 5)], 'curr_loc': [(3, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [2], 'step_counter': [[7]], 'episode': [None], 'ghost_positions': [[(5.0, 5.0)]], 'ghost_in_frame': [False], 'score': -4.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.006
+{'past_loc': [(3, 5)], 'curr_loc': [(2, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [2], 'step_counter': [[8]], 'episode': [None], 'ghost_positions': [[(4.0, 5.0)]], 'ghost_in_frame': [False], 'score': -6.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: 0.002
+{'past_loc': [(2, 5)], 'curr_loc': [(1, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [2], 'step_counter': [[9]], 'episode': [None], 'ghost_positions': [[(3.0, 5.0)]], 'ghost_in_frame': [False], 'score': 2.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.01
+{'past_loc': [(1, 5)], 'curr_loc': [(1, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [3], 'step_counter': [[10]], 'episode': [None], 'ghost_positions': [[(2.0, 5.0)]], 'ghost_in_frame': [True], 'score': -10.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: -0.002
+{'past_loc': [(1, 5)], 'curr_loc': [(1, 4)], 'past_orientation': [[3]], 'curr_orientation': [[1]], 'illegal_move_counter': [3], 'step_counter': [[11]], 'episode': [None], 'ghost_positions': [[(1.0, 5.0)]], 'ghost_in_frame': [True], 'score': -2.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.006
+{'past_loc': [(1, 4)], 'curr_loc': [(1, 3)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [3], 'step_counter': [[12]], 'episode': [None], 'ghost_positions': [[(1.0, 4.0)]], 'ghost_in_frame': [True], 'score': 6.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.014
+{'past_loc': [(1, 3)], 'curr_loc': [(1, 2)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [3], 'step_counter': [[13]], 'episode': [None], 'ghost_positions': [[(1.0, 3.0)]], 'ghost_in_frame': [True], 'score': 14.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.022
+{'past_loc': [(1, 2)], 'curr_loc': [(1, 1)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [3], 'step_counter': [[14]], 'episode': [None], 'ghost_positions': [[(1.0, 2.0)]], 'ghost_in_frame': [True], 'score': 22.0, 'max_ep': False} 
+
+Remove food mnearest  0
+Pacman died! Score: -435
+
+action: 1   reward: -0.49
+{'past_loc': [(1, 1)], 'curr_loc': [(1, 1)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [4], 'step_counter': [[15]], 'episode': [{'r': -490.0, 'l': 15}], 'ghost_positions': [[(1.0, 1.0)]], 'ghost_in_frame': [True], 'score': -490.0, 'max_ep': False} 
+
+Process 0. Episode 7
+Remove food mnearest  0
+
+action: 2   reward: 0.008
+{'past_loc': [(2, 5)], 'curr_loc': [(3, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[1]], 'episode': [None], 'ghost_positions': [[(3.0, 2.0)]], 'ghost_in_frame': [False], 'score': 8.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.016
+{'past_loc': [(3, 5)], 'curr_loc': [(4, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[2]], 'episode': [None], 'ghost_positions': [[(3.0, 3.0)]], 'ghost_in_frame': [False], 'score': 16.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.024
+{'past_loc': [(4, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[3]], 'episode': [None], 'ghost_positions': [[(4.0, 3.0)]], 'ghost_in_frame': [False], 'score': 24.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.012
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [1], 'step_counter': [[4]], 'episode': [None], 'ghost_positions': [[(4.0, 3.0)]], 'ghost_in_frame': [False], 'score': 12.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.0
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [2], 'step_counter': [[5]], 'episode': [None], 'ghost_positions': [[(5.0, 3.0)]], 'ghost_in_frame': [False], 'score': 0.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.002
+{'past_loc': [(5, 5)], 'curr_loc': [(4, 5)], 'past_orientation': [[2]], 'curr_orientation': [[3]], 'illegal_move_counter': [2], 'step_counter': [[6]], 'episode': [None], 'ghost_positions': [[(5.0, 4.0)]], 'ghost_in_frame': [True], 'score': -2.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.004
+{'past_loc': [(4, 5)], 'curr_loc': [(3, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [2], 'step_counter': [[7]], 'episode': [None], 'ghost_positions': [[(5.0, 5.0)]], 'ghost_in_frame': [False], 'score': -4.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.006
+{'past_loc': [(3, 5)], 'curr_loc': [(2, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [2], 'step_counter': [[8]], 'episode': [None], 'ghost_positions': [[(4.0, 5.0)]], 'ghost_in_frame': [False], 'score': -6.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: 0.002
+{'past_loc': [(2, 5)], 'curr_loc': [(1, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [2], 'step_counter': [[9]], 'episode': [None], 'ghost_positions': [[(3.0, 5.0)]], 'ghost_in_frame': [False], 'score': 2.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.01
+{'past_loc': [(1, 5)], 'curr_loc': [(1, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [3], 'step_counter': [[10]], 'episode': [None], 'ghost_positions': [[(2.0, 5.0)]], 'ghost_in_frame': [True], 'score': -10.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: -0.002
+{'past_loc': [(1, 5)], 'curr_loc': [(1, 4)], 'past_orientation': [[3]], 'curr_orientation': [[1]], 'illegal_move_counter': [3], 'step_counter': [[11]], 'episode': [None], 'ghost_positions': [[(1.0, 5.0)]], 'ghost_in_frame': [True], 'score': -2.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.006
+{'past_loc': [(1, 4)], 'curr_loc': [(1, 3)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [3], 'step_counter': [[12]], 'episode': [None], 'ghost_positions': [[(1.0, 4.0)]], 'ghost_in_frame': [True], 'score': 6.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.014
+{'past_loc': [(1, 3)], 'curr_loc': [(1, 2)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [3], 'step_counter': [[13]], 'episode': [None], 'ghost_positions': [[(1.0, 3.0)]], 'ghost_in_frame': [True], 'score': 14.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.022
+{'past_loc': [(1, 2)], 'curr_loc': [(1, 1)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [3], 'step_counter': [[14]], 'episode': [None], 'ghost_positions': [[(1.0, 2.0)]], 'ghost_in_frame': [True], 'score': 22.0, 'max_ep': False} 
+
+Remove food mnearest  0
+Pacman died! Score: -435
+
+action: 1   reward: -0.49
+{'past_loc': [(1, 1)], 'curr_loc': [(1, 1)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [4], 'step_counter': [[15]], 'episode': [{'r': -490.0, 'l': 15}], 'ghost_positions': [[(1.0, 1.0)]], 'ghost_in_frame': [True], 'score': -490.0, 'max_ep': False} 
+
+Process 0. Episode 8
+Remove food mnearest  0
+
+action: 2   reward: 0.008
+{'past_loc': [(2, 5)], 'curr_loc': [(3, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[1]], 'episode': [None], 'ghost_positions': [[(3.0, 2.0)]], 'ghost_in_frame': [False], 'score': 8.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.008
+{'past_loc': [(2, 5)], 'curr_loc': [(3, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[1]], 'episode': [None], 'ghost_positions': [[(3.0, 2.0)]], 'ghost_in_frame': [False], 'score': 8.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.016
+{'past_loc': [(3, 5)], 'curr_loc': [(4, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[2]], 'episode': [None], 'ghost_positions': [[(3.0, 3.0)]], 'ghost_in_frame': [False], 'score': 16.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.024
+{'past_loc': [(4, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[3]], 'episode': [None], 'ghost_positions': [[(4.0, 3.0)]], 'ghost_in_frame': [False], 'score': 24.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.012
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [1], 'step_counter': [[4]], 'episode': [None], 'ghost_positions': [[(5.0, 3.0)]], 'ghost_in_frame': [False], 'score': 12.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.0
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [2], 'step_counter': [[5]], 'episode': [None], 'ghost_positions': [[(5.0, 4.0)]], 'ghost_in_frame': [True], 'score': 0.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.002
+{'past_loc': [(5, 5)], 'curr_loc': [(4, 5)], 'past_orientation': [[2]], 'curr_orientation': [[3]], 'illegal_move_counter': [2], 'step_counter': [[6]], 'episode': [None], 'ghost_positions': [[(5.0, 5.0)]], 'ghost_in_frame': [True], 'score': -2.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.004
+{'past_loc': [(4, 5)], 'curr_loc': [(3, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [2], 'step_counter': [[7]], 'episode': [None], 'ghost_positions': [[(4.0, 5.0)]], 'ghost_in_frame': [True], 'score': -4.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.006
+{'past_loc': [(3, 5)], 'curr_loc': [(2, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [2], 'step_counter': [[8]], 'episode': [None], 'ghost_positions': [[(3.0, 5.0)]], 'ghost_in_frame': [True], 'score': -6.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: 0.002
+{'past_loc': [(2, 5)], 'curr_loc': [(1, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [2], 'step_counter': [[9]], 'episode': [None], 'ghost_positions': [[(2.0, 5.0)]], 'ghost_in_frame': [True], 'score': 2.0, 'max_ep': False} 
+
+Remove food mnearest  0
+Pacman died! Score: -470
+
+action: 3   reward: -0.51
+{'past_loc': [(1, 5)], 'curr_loc': [(1, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [3], 'step_counter': [[10]], 'episode': [{'r': -510.0, 'l': 10}], 'ghost_positions': [[(1.0, 5.0)]], 'ghost_in_frame': [True], 'score': -510.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.008
+{'past_loc': [(2, 5)], 'curr_loc': [(3, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[1]], 'episode': [None], 'ghost_positions': [[(3.0, 2.0)]], 'ghost_in_frame': [False], 'score': 8.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.016
+{'past_loc': [(3, 5)], 'curr_loc': [(4, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[2]], 'episode': [None], 'ghost_positions': [[(3.0, 3.0)]], 'ghost_in_frame': [False], 'score': 16.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.024
+{'past_loc': [(4, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[3]], 'episode': [None], 'ghost_positions': [[(4.0, 3.0)]], 'ghost_in_frame': [False], 'score': 24.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.012
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [1], 'step_counter': [[4]], 'episode': [None], 'ghost_positions': [[(5.0, 3.0)]], 'ghost_in_frame': [False], 'score': 12.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.0
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [2], 'step_counter': [[5]], 'episode': [None], 'ghost_positions': [[(5.0, 4.0)]], 'ghost_in_frame': [True], 'score': 0.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.002
+{'past_loc': [(5, 5)], 'curr_loc': [(4, 5)], 'past_orientation': [[2]], 'curr_orientation': [[3]], 'illegal_move_counter': [2], 'step_counter': [[6]], 'episode': [None], 'ghost_positions': [[(5.0, 5.0)]], 'ghost_in_frame': [True], 'score': -2.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.004
+{'past_loc': [(4, 5)], 'curr_loc': [(3, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [2], 'step_counter': [[7]], 'episode': [None], 'ghost_positions': [[(4.0, 5.0)]], 'ghost_in_frame': [True], 'score': -4.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.006
+{'past_loc': [(3, 5)], 'curr_loc': [(2, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [2], 'step_counter': [[8]], 'episode': [None], 'ghost_positions': [[(3.0, 5.0)]], 'ghost_in_frame': [True], 'score': -6.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: 0.002
+{'past_loc': [(2, 5)], 'curr_loc': [(1, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [2], 'step_counter': [[9]], 'episode': [None], 'ghost_positions': [[(2.0, 5.0)]], 'ghost_in_frame': [True], 'score': 2.0, 'max_ep': False} 
+
+Remove food mnearest  0
+Pacman died! Score: -470
+
+action: 3   reward: -0.51
+{'past_loc': [(1, 5)], 'curr_loc': [(1, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [3], 'step_counter': [[10]], 'episode': [{'r': -510.0, 'l': 10}], 'ghost_positions': [[(1.0, 5.0)]], 'ghost_in_frame': [True], 'score': -510.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.008
+{'past_loc': [(2, 5)], 'curr_loc': [(3, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[1]], 'episode': [None], 'ghost_positions': [[(3.0, 2.0)]], 'ghost_in_frame': [False], 'score': 8.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.016
+{'past_loc': [(3, 5)], 'curr_loc': [(4, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[2]], 'episode': [None], 'ghost_positions': [[(3.0, 3.0)]], 'ghost_in_frame': [False], 'score': 16.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.024
+{'past_loc': [(4, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[3]], 'episode': [None], 'ghost_positions': [[(3.0, 3.0)]], 'ghost_in_frame': [False], 'score': 24.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.012
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [1], 'step_counter': [[4]], 'episode': [None], 'ghost_positions': [[(4.0, 3.0)]], 'ghost_in_frame': [False], 'score': 12.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.0
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [2], 'step_counter': [[5]], 'episode': [None], 'ghost_positions': [[(5.0, 3.0)]], 'ghost_in_frame': [False], 'score': 0.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.002
+{'past_loc': [(5, 5)], 'curr_loc': [(4, 5)], 'past_orientation': [[2]], 'curr_orientation': [[3]], 'illegal_move_counter': [2], 'step_counter': [[6]], 'episode': [None], 'ghost_positions': [[(5.0, 2.0)]], 'ghost_in_frame': [False], 'score': -2.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.016
+{'past_loc': [(3, 5)], 'curr_loc': [(4, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[2]], 'episode': [None], 'ghost_positions': [[(3.0, 3.0)]], 'ghost_in_frame': [False], 'score': 16.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.024
+{'past_loc': [(4, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[3]], 'episode': [None], 'ghost_positions': [[(3.0, 4.0)]], 'ghost_in_frame': [False], 'score': 24.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.012
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [1], 'step_counter': [[4]], 'episode': [None], 'ghost_positions': [[(3.0, 5.0)]], 'ghost_in_frame': [False], 'score': 12.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.0
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [2], 'step_counter': [[5]], 'episode': [None], 'ghost_positions': [[(4.0, 5.0)]], 'ghost_in_frame': [True], 'score': 0.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.008
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 4)], 'past_orientation': [[2]], 'curr_orientation': [[1]], 'illegal_move_counter': [2], 'step_counter': [[6]], 'episode': [None], 'ghost_positions': [[(5.0, 5.0)]], 'ghost_in_frame': [True], 'score': 8.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.016
+{'past_loc': [(5, 4)], 'curr_loc': [(5, 3)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [2], 'step_counter': [[7]], 'episode': [None], 'ghost_positions': [[(5.0, 4.0)]], 'ghost_in_frame': [True], 'score': 16.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.024
+{'past_loc': [(5, 3)], 'curr_loc': [(5, 2)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [2], 'step_counter': [[8]], 'episode': [None], 'ghost_positions': [[(5.0, 3.0)]], 'ghost_in_frame': [True], 'score': 24.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.032
+{'past_loc': [(5, 2)], 'curr_loc': [(5, 1)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [2], 'step_counter': [[9]], 'episode': [None], 'ghost_positions': [[(5.0, 2.0)]], 'ghost_in_frame': [True], 'score': 32.0, 'max_ep': False} 
+
+Remove food mnearest  0
+Pacman died! Score: -440
+
+action: 1   reward: -0.48
+{'past_loc': [(5, 1)], 'curr_loc': [(5, 1)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [3], 'step_counter': [[10]], 'episode': [{'r': -480.0, 'l': 10}], 'ghost_positions': [[(5.0, 1.0)]], 'ghost_in_frame': [True], 'score': -480.0, 'max_ep': False} 
+
+Process 0. Episode 9
+Remove food mnearest  0
+
+action: 2   reward: 0.008
+{'past_loc': [(2, 5)], 'curr_loc': [(3, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[1]], 'episode': [None], 'ghost_positions': [[(3.0, 2.0)]], 'ghost_in_frame': [False], 'score': 8.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.016
+{'past_loc': [(3, 5)], 'curr_loc': [(4, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[2]], 'episode': [None], 'ghost_positions': [[(3.0, 3.0)]], 'ghost_in_frame': [False], 'score': 16.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.024
+{'past_loc': [(4, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[3]], 'episode': [None], 'ghost_positions': [[(3.0, 4.0)]], 'ghost_in_frame': [False], 'score': 24.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.012
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [1], 'step_counter': [[4]], 'episode': [None], 'ghost_positions': [[(3.0, 5.0)]], 'ghost_in_frame': [False], 'score': 12.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.0
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [2], 'step_counter': [[5]], 'episode': [None], 'ghost_positions': [[(4.0, 5.0)]], 'ghost_in_frame': [True], 'score': 0.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.008
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 4)], 'past_orientation': [[2]], 'curr_orientation': [[1]], 'illegal_move_counter': [2], 'step_counter': [[6]], 'episode': [None], 'ghost_positions': [[(5.0, 5.0)]], 'ghost_in_frame': [True], 'score': 8.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.016
+{'past_loc': [(5, 4)], 'curr_loc': [(5, 3)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [2], 'step_counter': [[7]], 'episode': [None], 'ghost_positions': [[(5.0, 4.0)]], 'ghost_in_frame': [True], 'score': 16.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.024
+{'past_loc': [(5, 3)], 'curr_loc': [(5, 2)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [2], 'step_counter': [[8]], 'episode': [None], 'ghost_positions': [[(5.0, 3.0)]], 'ghost_in_frame': [True], 'score': 24.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.032
+{'past_loc': [(5, 2)], 'curr_loc': [(5, 1)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [2], 'step_counter': [[9]], 'episode': [None], 'ghost_positions': [[(5.0, 2.0)]], 'ghost_in_frame': [True], 'score': 32.0, 'max_ep': False} 
+
+Remove food mnearest  0
+Pacman died! Score: -440
+
+action: 1   reward: -0.48
+{'past_loc': [(5, 1)], 'curr_loc': [(5, 1)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [3], 'step_counter': [[10]], 'episode': [{'r': -480.0, 'l': 10}], 'ghost_positions': [[(5.0, 1.0)]], 'ghost_in_frame': [True], 'score': -480.0, 'max_ep': False} 
+
+Process 0. Episode 10
+Remove food mnearest  0
+
+action: 2   reward: 0.008
+{'past_loc': [(2, 5)], 'curr_loc': [(3, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[1]], 'episode': [None], 'ghost_positions': [[(3.0, 2.0)]], 'ghost_in_frame': [False], 'score': 8.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.016
+{'past_loc': [(3, 5)], 'curr_loc': [(4, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[2]], 'episode': [None], 'ghost_positions': [[(3.0, 3.0)]], 'ghost_in_frame': [False], 'score': 16.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.024
+{'past_loc': [(4, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[3]], 'episode': [None], 'ghost_positions': [[(4.0, 3.0)]], 'ghost_in_frame': [False], 'score': 24.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.012
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [1], 'step_counter': [[4]], 'episode': [None], 'ghost_positions': [[(5.0, 3.0)]], 'ghost_in_frame': [False], 'score': 12.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.0
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [2], 'step_counter': [[5]], 'episode': [None], 'ghost_positions': [[(5.0, 4.0)]], 'ghost_in_frame': [True], 'score': 0.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.002
+{'past_loc': [(5, 5)], 'curr_loc': [(4, 5)], 'past_orientation': [[2]], 'curr_orientation': [[3]], 'illegal_move_counter': [2], 'step_counter': [[6]], 'episode': [None], 'ghost_positions': [[(5.0, 5.0)]], 'ghost_in_frame': [True], 'score': -2.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.004
+{'past_loc': [(4, 5)], 'curr_loc': [(3, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [2], 'step_counter': [[7]], 'episode': [None], 'ghost_positions': [[(4.0, 5.0)]], 'ghost_in_frame': [True], 'score': -4.0, 'max_ep': False}Error: /undefinedfilename in (/tmp/tmppxbvvrkw)
+Operand stack:
+
+Execution stack:
+   %interp_exit   .runexec2   --nostringval--   --nostringval--   --nostringval--   2   %stopped_push   --nostringval--   --nostringval--   --nostringval--   false   1   %stopped_push
+Dictionary stack:
+   --dict:959/1684(ro)(G)--   --dict:0/20(G)--   --dict:77/200(L)--
+Current allocation mode is local
+Last OS error: No such file or directory
+ 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.006
+{'past_loc': [(3, 5)], 'curr_loc': [(2, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [2], 'step_counter': [[8]], 'episode': [None], 'ghost_positions': [[(3.0, 5.0)]], 'ghost_in_frame': [True], 'score': -6.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: 0.002
+{'past_loc': [(2, 5)], 'curr_loc': [(1, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [2], 'step_counter': [[9]], 'episode': [None], 'ghost_positions': [[(3.0, 5.0)]], 'ghost_in_frame': [False], 'score': 2.0, 'max_ep': False} 
+
+Remove food mnearest  0
+ 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.004
+{'past_loc': [(4, 5)], 'curr_loc': [(3, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [2], 'step_counter': [[7]], 'episode': [None], 'ghost_positions': [[(5.0, 2.0)]], 'ghost_in_frame': [False], 'score': -4.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.006
+{'past_loc': [(3, 5)], 'curr_loc': [(2, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [2], 'step_counter': [[8]], 'episode': [None], 'ghost_positions': [[(5.0, 2.0)]], 'ghost_in_frame': [False], 'score': -6.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: 0.002
+{'past_loc': [(2, 5)], 'curr_loc': [(1, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [2], 'step_counter': [[9]], 'episode': [None], 'ghost_positions': [[(5.0, 2.0)]], 'ghost_in_frame': [False], 'score': 2.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.01
+{'past_loc': [(1, 5)], 'curr_loc': [(1, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [3], 'step_counter': [[10]], 'episode': [None], 'ghost_positions': [[(5.0, 2.0)]], 'ghost_in_frame': [False], 'score': -10.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.022
+{'past_loc': [(1, 5)], 'curr_loc': [(1, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [4], 'step_counter': [[11]], 'episode': [None], 'ghost_positions': [[(5.0, 2.0)]], 'ghost_in_frame': [False], 'score': -22.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.034
+{'past_loc': [(1, 5)], 'curr_loc': [(1, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [5], 'step_counter': [[12]], 'episode': [None], 'ghost_positions': [[(5.0, 2.0)]], 'ghost_in_frame': [False], 'score': -34.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.046
+{'past_loc': [(1, 5)], 'curr_loc': [(1, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [6], 'step_counter': [[13]], 'episode': [None], 'ghost_positions': [[(5.0, 2.0)]], 'ghost_in_frame': [False], 'score': -46.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.058
+{'past_loc': [(1, 5)], 'curr_loc': [(1, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [7], 'step_counter': [[14]], 'episode': [None], 'ghost_positions': [[(5.0, 2.0)]], 'ghost_in_frame': [False], 'score': -58.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.07
+{'past_loc': [(1, 5)], 'curr_loc': [(1, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [8], 'step_counter': [[15]], 'episode': [None], 'ghost_positions': [[(5.0, 1.0)]], 'ghost_in_frame': [False], 'score': -70.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.082
+{'past_loc': [(1, 5)], 'curr_loc': [(1, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [9], 'step_counter': [[16]], 'episode': [None], 'ghost_positions': [[(4.0, 1.0)]], 'ghost_in_frame': [False], 'score': -82.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.094
+{'past_loc': [(1, 5)], 'curr_loc': [(1, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [10], 'step_counter': [[17]], 'episode': [None], 'ghost_positions': [[(3.0, 1.0)]], 'ghost_in_frame': [False], 'score': -94.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.106
+{'past_loc': [(1, 5)], 'curr_loc': [(1, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [11], 'step_counter': [[18]], 'episode': [None], 'ghost_positions': [[(3.0, 2.0)]], 'ghost_in_frame': [False], 'score': -106.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.118
+{'past_loc': [(1, 5)], 'curr_loc': [(1, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [12], 'step_counter': [[19]], 'episode': [None], 'ghost_positions': [[(3.0, 3.0)]], 'ghost_in_frame': [False], 'score': -118.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: -0.13
+{'past_loc': [(1, 5)], 'curr_loc': [(1, 5)], 'past_orientation': [[3]], 'curr_orientation': [[3]], 'illegal_move_counter': [13], 'step_counter': [[20]], 'episode': [None], 'ghost_positions': [[(3.0, 4.0)]], 'ghost_in_frame': [False], 'score': -130.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: -0.122
+{'past_loc': [(1, 5)], 'curr_loc': [(1, 4)], 'past_orientation': [[3]], 'curr_orientation': [[1]], 'illegal_move_counter': [13], 'step_counter': [[21]], 'episode': [None], 'ghost_positions': [[(3.0, 5.0)]], 'ghost_in_frame': [False], 'score': -122.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: -0.114
+{'past_loc': [(1, 4)], 'curr_loc': [(1, 3)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [13], 'step_counter': [[22]], 'episode': [None], 'ghost_positions': [[(4.0, 5.0)]], 'ghost_in_frame': [False], 'score': -114.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: -0.106
+{'past_loc': [(1, 3)], 'curr_loc': [(1, 2)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [13], 'step_counter': [[23]], 'episode': [None], 'ghost_positions': [[(4.0, 5.0)]], 'ghost_in_frame': [False], 'score': -106.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: -0.098
+{'past_loc': [(1, 2)], 'curr_loc': [(1, 1)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [13], 'step_counter': [[24]], 'episode': [None], 'ghost_positions': [[(4.0, 5.0)]], 'ghost_in_frame': [False], 'score': -98.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: -0.11
+{'past_loc': [(1, 1)], 'curr_loc': [(1, 1)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [14], 'step_counter': [[25]], 'episode': [None], 'ghost_positions': [[(4.0, 5.0)]], 'ghost_in_frame': [False], 'score': -110.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: -0.102
+{'past_loc': [(1, 1)], 'curr_loc': [(2, 1)], 'past_orientation': [[1]], 'curr_orientation': [[2]], 'illegal_move_counter': [14], 'step_counter': [[26]], 'episode': [None], 'ghost_positions': [[(4.0, 5.0)]], 'ghost_in_frame': [False], 'score': -102.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: -0.104
+{'past_loc': [(2, 1)], 'curr_loc': [(3, 1)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [14], 'step_counter': [[27]], 'episode': [None], 'ghost_positions': [[(4.0, 5.0)]], 'ghost_in_frame': [False], 'score': -104.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: -0.096
+{'past_loc': [(3, 1)], 'curr_loc': [(4, 1)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [14], 'step_counter': [[28]], 'episode': [None], 'ghost_positions': [[(4.0, 5.0)]], 'ghost_in_frame': [False], 'score': -96.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: -0.088
+{'past_loc': [(4, 1)], 'curr_loc': [(5, 1)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [14], 'step_counter': [[29]], 'episode': [None], 'ghost_positions': [[(4.0, 5.0)]], 'ghost_in_frame': [False], 'score': -88.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: -0.1
+{'past_loc': [(5, 1)], 'curr_loc': [(5, 1)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [15], 'step_counter': [[30]], 'episode': [None], 'ghost_positions': [[(5.0, 5.0)]], 'ghost_in_frame': [False], 'score': -100.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 0   reward: -0.092
+{'past_loc': [(5, 1)], 'curr_loc': [(5, 2)], 'past_orientation': [[2]], 'curr_orientation': [[0]], 'illegal_move_counter': [15], 'step_counter': [[31]], 'episode': [None], 'ghost_positions': [[(5.0, 4.0)]], 'ghost_in_frame': [False], 'score': -92.0, 'max_ep': False} 
+
+Remove food mnearest  0
+Pacman died! Score: -402
+
+action: 0   reward: -0.584
+{'past_loc': [(5, 2)], 'curr_loc': [(5, 3)], 'past_orientation': [[0]], 'curr_orientation': [[0]], 'illegal_move_counter': [15], 'step_counter': [[32]], 'episode': [{'r': -584.0, 'l': 32}], 'ghost_positions': [[(5.0, 3.0)]], 'ghost_in_frame': [True], 'score': -584.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.008
+{'past_loc': [(2, 5)], 'curr_loc': [(3, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[1]], 'episode': [None], 'ghost_positions': [[(3.0, 2.0)]], 'ghost_in_frame': [False], 'score': 8.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.016
+{'past_loc': [(3, 5)], 'curr_loc': [(4, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[2]], 'episode': [None], 'ghost_positions': [[(3.0, 3.0)]], 'ghost_in_frame': [False], 'score': 16.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.024
+{'past_loc': [(4, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [0], 'step_counter': [[3]], 'episode': [None], 'ghost_positions': [[(3.0, 4.0)]], 'ghost_in_frame': [False], 'score': 24.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.012
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [1], 'step_counter': [[4]], 'episode': [None], 'ghost_positions': [[(3.0, 5.0)]], 'ghost_in_frame': [False], 'score': 12.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 2   reward: 0.0
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 5)], 'past_orientation': [[2]], 'curr_orientation': [[2]], 'illegal_move_counter': [2], 'step_counter': [[5]], 'episode': [None], 'ghost_positions': [[(4.0, 5.0)]], 'ghost_in_frame': [True], 'score': 0.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.008
+{'past_loc': [(5, 5)], 'curr_loc': [(5, 4)], 'past_orientation': [[2]], 'curr_orientation': [[1]], 'illegal_move_counter': [2], 'step_counter': [[6]], 'episode': [None], 'ghost_positions': [[(5.0, 5.0)]], 'ghost_in_frame': [True], 'score': 8.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.016
+{'past_loc': [(5, 4)], 'curr_loc': [(5, 3)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [2], 'step_counter': [[7]], 'episode': [None], 'ghost_positions': [[(5.0, 5.0)]], 'ghost_in_frame': [False], 'score': 16.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.024
+{'past_loc': [(5, 3)], 'curr_loc': [(5, 2)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [2], 'step_counter': [[8]], 'episode': [None], 'ghost_positions': [[(5.0, 4.0)]], 'ghost_in_frame': [False], 'score': 24.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.032
+{'past_loc': [(5, 2)], 'curr_loc': [(5, 1)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [2], 'step_counter': [[9]], 'episode': [None], 'ghost_positions': [[(5.0, 3.0)]], 'ghost_in_frame': [False], 'score': 32.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 1   reward: 0.02
+{'past_loc': [(5, 1)], 'curr_loc': [(5, 1)], 'past_orientation': [[1]], 'curr_orientation': [[1]], 'illegal_move_counter': [3], 'step_counter': [[10]], 'episode': [None], 'ghost_positions': [[(5.0, 2.0)]], 'ghost_in_frame': [True], 'score': 20.0, 'max_ep': False} 
+
+Remove food mnearest  0
+
+action: 3   reward: 0.028
+{'past_loc': [(5, 1)], 'curr_loc': [(4, 1)], 'past_orientation': [[1]], 'curr_orientation': [[3]], 'illegal_move_counter': [3], 'step_counter': [[11]], 'episode': [None], 'ghost_positions': [[(5.0, 1.0)]], 'ghost_in_frame': [True], 'score': 28.0, 'max_ep': False} 
+
+Remove food mnearest  0
+Loading previous weights... Done.
+Error: /undefinedfilename in (/tmp/tmpr7hbmpjd)
+Operand stack:
+
+Execution stack:
+   %interp_exit   .runexec2   --nostringval--   --nostringval--   --nostringval--   2   %stopped_push   --nostringval--   --nostringval--   --nostringval--   false   1   %stopped_push
+Dictionary stack:
+   --dict:959/1684(ro)(G)--   --dict:0/20(G)--   --dict:77/200(L)--
+Current allocation mode is local
+Last OS error: No such file or directory
+(3, 5)
+FFFFFFF
+FTFTTTF
+FTFFFTF
+FTFFFTF
+FTFFFTF
+FTTFTTF
+FFFFFFF
+Food count: 13
+1 action: 2
+2 action: 2
+1 action: 1
+2 action: 1
+Pacman died! Score: -493
+1 action: 1
+2 action: 1
+(3, 5)
+FFFFFFF
+FTFTTTF
+FTFFFTF
+FTFFFTF
+FTFFFTF
+FTTFTTF
+FFFFFFF
+Food count: 13
+1 action: 2
+2 action: 2
+1 action: 1
+2 action: 1
+Pacman died! Score: -493
+1 action: 1
+2 action: 1
+(3, 5)
+FFFFFFF
+FTFTTTF
+FTFFFTF
+FTFFFTF
+FTFFFTF
+FTTFTTF
+FFFFFFF
+Food count: 13
+1 action: 2
+2 action: 2
+1 action: 1
+2 action: 1
+Pacman died! Score: -493
+1 action: 1
+2 action: 1
+(3, 5)
+FFFFFFF
+FTFTTTF
+FTFFFTF
+FTFFFTF
+FTFFFTF
+FTTFTTF
+FFFFFFF
+Food count: 13
+1 action: 2
+2 action: 2
+1 action: 1
+2 action: 1
+Pacman died! Score: -493
+1 action: 1
+2 action: 1
+(3, 5)
+FFFFFFF
+FTFTTTF
+FTFFFTF
+FTFFFTF
+FTFFFTF
+FTTFTTF
+FFFFFFF
+Food count: 13
+1 action: 2
+2 action: 2
+1 action: 1
+2 action: 1
+Pacman died! Score: -493
+1 action: 1
+2 action: 1
+(3, 5)
+FFFFFFF
+FTFTTTF
+FTFFFTF
+FTFFFTF
+FTFFFTF
+FTTFTTF
+FFFFFFF
+Food count: 13
+1 action: 2
+2 action: 2
+1 action: 1
+2 action: 1
+Pacman died! Score: -493
+1 action: 1
+2 action: 1
+(3, 5)
+FFFFFFF
+FTFTTTF
+FTFFFTF
+FTFFFTF
+FTFFFTF
+FTTFTTF
+FFFFFFF
+Food count: 13
+1 action: 2
+2 action: 2
+1 action: 1
+2 action: 1
+Pacman died! Score: -493
+1 action: 1
+2 action: 1
+(3, 5)
+FFFFFFF
+FTFTTTF
+FTFFFTF
+FTFFFTF
+FTFFFTF
+FTTFTTF
+FFFFFFF
+Food count: 13
+1 action: 2
+2 action: 2
+1 action: 1
+2 action: 1
+Pacman died! Score: -493
+1 action: 1
+2 action: 1
+(3, 5)
+FFFFFFF
+FTFTTTF
+FTFFFTF
+FTFFFTF
+FTFFFTF
+FTTFTTF
+FFFFFFF
+Food count: 13
+1 action: 2
+2 action: 2
+1 action: 1
+2 action: 1
+Pacman died! Score: -493
+1 action: 1
+2 action: 1
+(3, 5)
+FFFFFFF
+FTFTTTF
+FTFFFTF
+FTFFFTF
+FTFFFTF
+FTTFTTF
+FFFFFFF
+Food count: 13
+1 action: 2
+2 action: 2
+1 action: 1
+2 action: 1
+Pacman died! Score: -493
+1 action: 1
+2 action: 1
+(3, 5)
+FFFFFFF
+FTFTTTF
+FTFFFTF
+FTFFFTF
+FTFFFTF
+FTTFTTF
+FFFFFFF
+Food count: 13
+1 action: 2
+2 action: 2
+1 action: 1
+2 action: 1
+Pacman died! Score: -493
+1 action: 1
+2 action: 1
+(3, 5)
+FFFFFFF
+FTFTTTF
+FTFFFTF
+FTFFFTF
+FTFFFTF
+FTTFTTF
+FFFFFFF
+Food count: 13
+1 action: 2
+2 action: 2
+1 action: 1
+2 action: 1
+Pacman died! Score: -493
+1 action: 1
+2 action: 1
+(3, 5)
+FFFFFFF
+FTFTTTF
+FTFFFTF
+FTFFFTF
+FTFFFTF
+FTTFTTF
+FFFFFFF
+Food count: 13
+1 action: 2
+2 action: 2
+1 action: 1
+2 action: 1
+1 action: 1
+2 action: 1
+1 action: 0
+2 action: 0
+1 action: 0
+2 action: 0
+1 action: 0
+2 action: 0
+1 action: 0
+2 action: 0
+1 action: 0
+2 action: 0
+1 action: 0
+2 action: 0
+1 action: 0
+2 action: 0
+1 action: 0
+2 action: 0
+1 action: 0
+2 action: 0
+1 action: 0
+2 action: 0
+1 action: 3
+2 action: 3
+1 action: 2
+2 action: 2
+1 action: 1
+2 action: 1
+1 action: 1
+2 action: 1
+1 action: 3
+2 action: 3
+(1, 3)
+FFFFFFF
+FTFFTTF
+FTFFFTF
+FTFFFTF
+FTFFFTF
+FTTFTTF
+FFFFFFF
+Food count: 12
+1 action: 3
+2 action: 3
+1 action: 3
+2 action: 3
+1 action: 3
+2 action: 3
+1 action: 3
+2 action: 3
+1 action: 3
+2 action: 3
+1 action: 3
+2 action: 3
+1 action: 3
+2 action: 3
+1 action: 3
+2 action: 3
+1 action: 3
+2 action: 3
+1 action: 3
+2 action: 3
+1 action: 2
+2 action: 2
+Pacman died! Score: -510
+1 action: 2
+2 action: 2
+(3, 5)
+FFFFFFF
+FTFTTTF
+FTFFFTF
+FTFFFTF
+FTFFFTF
+FTTFTTF
+FFFFFFF
+Food count: 13
+1 action: 2
+2 action: 2
+1 action: 1
+2 action: 1
+Pacman died! Score: -493
+1 action: 1
+2 action: 1
+(3, 5)
+FFFFFFF
+FTFTTTF
+FTFFFTF
+FTFFFTF
+FTFFFTF
+FTTFTTF
+FFFFFFF
+Food count: 13
+1 action: 2
+2 action: 2
+1 action: 1
+2 action: 1
+Pacman died! Score: -493
+1 action: 1
+2 action: 1
+(3, 5)
+FFFFFFF
+FTFTTTF
+FTFFFTF
+FTFFFTF
+FTFFFTF
+FTTFTTF
+FFFFFFF
+Food count: 13
+1 action: 2
+2 action: 2
+1 action: 1
+2 action: 1
+Pacman died! Score: -493
+1 action: 1
+2 action: 1
+(3, 5)
+FFFFFFF
+FTFTTTF
+FTFFFTF
+FTFFFTF
+FTFFFTF
+FTTFTTF
+FFFFFFF
+Food count: 13
+1 action: 2
+2 action: 2
+1 action: 1
+2 action: 1
+Pacman died! Score: -493
+1 action: 1
+2 action: 1
+(3, 5)
+FFFFFFF
+FTFTTTF
+FTFFFTF
+FTFFFTF
+FTFFFTF
+FTTFTTF
+FFFFFFF
+Food count: 13
+1 action: 2
+2 action: 2
+1 action: 1
+2 action: 1
+Pacman died! Score: -493
+1 action: 1
+2 action: 1
+(3, 5)
+FFFFFFF
+FTFTTTF
+FTFFFTF
+FTFFFTF
+FTFFFTF
+FTTFTTF
+FFFFFFF
+Food count: 13
+1 action: 2
+2 action: 2
+1 action: 1
+2 action: 1
+Pacman died! Score: -493
+1 action: 1
+2 action: 1
+(3, 5)
+FFFFFFF
+FTFTTTF
+FTFFFTF
+FTFFFTF
+FTFFFTF
+FTTFTTF
+FFFFFFF
+Food count: 13
+1 action: 2
+2 action: 2
+1 action: 1
+2 action: 1
+Pacman died! Score: -493
+1 action: 1
+2 action: 1
+(3, 5)
+FFFFFFF
+FTFTTTF
+FTFFFTF
+FTFFFTF
+FTFFFTF
+FTTFTTF
+FFFFFFF
+Food count: 13
+Process 0. Episode 0
+(3, 5)
+FFFFFFF
+FTFTTTF
+FTFFFTF
+FTFFFTF
+FTFFFTF
+FTTFTTF
+FFFFFFF
+Food count: 13
+1 action: 2
+2 action: 2
+1 action: 1
+2 action: 1
+Pacman died! Score: -493
+1 action: 1
+2 action: 1
+Process 0. Episode 1
+(3, 5)
+FFFFFFF
+FTFTTTF
+FTFFFTF
+FTFFFTF
+FTFFFTF
+FTTFTTF
+FFFFFFF
+Food count: 13
+1 action: 2
+2 action: 2
+1 action: 1
+2 action: 1
+Pacman died! Score: -493
+1 action: 1
+2 action: 1
+Process 0. Episode 2
+(3, 5)
+FFFFFFF
+FTFTTTF
+FTFFFTF
+FTFFFTF
+FTFFFTF
+FTTFTTF
+FFFFFFF
+Food count: 13
+1 action: 2
+2 action: 2
+1 action: 1
+2 action: 1
+Pacman died! Score: -493
+1 action: 1
+2 action: 1
+Process 0. Episode 3
+(3, 5)
+FFFFFFF
+FTFTTTF
+FTFFFTF
+FTFFFTF
+FTFFFTF
+FTTFTTF
+FFFFFFF
+Food count: 13
+1 action: 2
+2 action: 2
+1 action: 1
+2 action: 1
+Pacman died! Score: -493
+1 action: 1
+2 action: 1
+Process 0. Episode 4
+(3, 5)
+FFFFFFF
+FTFTTTF
+FTFFFTF
+FTFFFTF
+FTFFFTF
+FTTFTTF
+FFFFFFF
+Food count: 13
+1 action: 2
+2 action: 2
+1 action: 1
+2 action: 1
+Pacman died! Score: -493
+1 action: 1
+2 action: 1
+Process 0. Episode 5
+(3, 5)
+FFFFFFF
+FTFTTTF
+FTFFFTF
+FTFFFTF
+FTFFFTF
+FTTFTTF
+FFFFFFF
+Food count: 13
+1 action: 2
+2 action: 2
+1 action: 1
+2 action: 1
+Pacman died! Score: -493
+1 action: 1
+2 action: 1
+Process 0. Episode 6
+(3, 5)
+FFFFFFF
+FTFTTTF
+FTFFFTF
+FTFFFTF
+FTFFFTF
+FTTFTTF
+FFFFFFF
+Food count: 13
+1 action: 2
+2 action: 2
+1 action: 1
+2 action: 1
+Pacman died! Score: -493
+1 action: 1
+2 action: 1
+Process 0. Episode 7
+(3, 5)
+FFFFFFF
+FTFTTTF
+FTFFFTF
+FTFFFTF
+FTFFFTF
+FTTFTTF
+FFFFFFF
+Food count: 13
+1 action: 2
+2 action: 2
+1 action: 1
+2 action: 1
+Pacman died! Score: -493
+1 action: 1
+2 action: 1
+Process 0. Episode 8
+(3, 5)
+FFFFFFF
+FTFTTTF
+FTFFFTF
+FTFFFTF
+FTFFFTF
+FTTFTTF
+FFFFFFF
+Food count: 13
+1 action: 2
+2 action: 2
+1 action: 1
+2 action: 1
+Pacman died! Score: -493
+1 action: 1
+2 action: 1
+Process 0. Episode 9
+(3, 5)
+FFFFFFF
+FTFTTTF
+FTFFFTF
+FTFFFTF
+FTFFFTF
+FTTFTTF
+FFFFFFF
+Food count: 13
+1 action: 2
+2 action: 2
+1 action: 1
+2 action: 1
+Pacman died! Score: -493
+1 action: 1
+2 action: 1
+Process 0. Episode 10
+(3, 5)
+FFFFFFF
+FTFTTTF
+FTFFFTF
+FTFFFTF
+FTFFFTF
+FTTFTTF
+FFFFFFF
+Food count: 13
+1 action: 2
+2 action: 2
+1 action: 1
+2 action: 1
+Pacman died! Score: -493
+1 action: 1
+2 action: 1
+Process 0. Episode 11
+(3, 5)
+FFFFFFF
+FTFTTTF
+FTFFFTF
+FTFFFTF
+FTFFFTF
+FTTFTTF
+FFFFFFF
+Food count: 13
+1 action: 2
+2 action: 2
+1 action: 1
+2 action: 1
+Pacman died! Score: -493
+1 action: 1
+2 action: 1
+Process 0. Episode 12
+(3, 5)
+FFFFFFF
+FTFTTTF
+FTFFFTF
+FTFFFTF
+FTFFFTF
+FTTFTTF
+FFFFFFF
+Food count: 13
+1 action: 2
+2 action: 2
+1 action: 1
+2 action: 1
+Pacman died! Score: -493
+1 action: 1
+2 action: 1
+Process 0. Episode 13
+(3, 5)
+FFFFFFF
+FTFTTTF
+FTFFFTF
+FTFFFTF
+FTFFFTF
+FTTFTTF
+FFFFFFF
+Food count: 13
+1 action: 2
+2 action: 2
+1 action: 1
+2 action: 1
+1 action: 0
+2 action: 0
+1 action: 3
+2 action: 3
+1 action: 2
+2 action: 2
+(4, 5)
+FFFFFFF
+FTFFTTF
+FTFFFTF
+FTFFFTF
+FTFFFTF
+FTTFTTF
+FFFFFFF
+Food count: 12
+1 action: 2
+2 action: 2
+1 action: 4
+2 action: 4
+1 action: 3
+2 action: 3
+1 action: 0
+2 action: 0
+1 action: 0
+2 action: 0
+1 action: 0
+2 action: 0
+1 action: 0
+2 action: 0
+1 action: 0
+2 action: 0
+1 action: 1
+2 action: 1
+1 action: 1
+2 action: 1
+Pacman died! Score: -496
+1 action: 0
+2 action: 0
+Process 0. Episode 14
+(3, 5)
+FFFFFFF
+FTFTTTF
+FTFFFTF
+FTFFFTF
+FTFFFTF
+FTTFTTF
+FFFFFFF
+Food count: 13
+1 action: 2
+2 action: 2
+1 action: 1
+2 action: 1
+Pacman died! Score: -493
+1 action: 1
+2 action: 1
+Process 0. Episode 15
+(3, 5)
+FFFFFFF
+FTFTTTF
+FTFFFTF
+FTFFFTF
+FTFFFTF
+FTTFTTF
+FFFFFFF
+Food count: 13
+1 action: 2
+2 action: 2
+1 action: 1
+2 action: 1
+Pacman died! Score: -493
+1 action: 1
+2 action: 1
+Process 0. Episode 16
+(3, 5)
+FFFFFFF
+FTFTTTF
+FTFFFTF
+FTFFFTF
+FTFFFTF
+FTTFTTF
+FFFFFFF
+Food count: 13
+1 action: 2
+2 action: 2
+1 action: 1
+2 action: 1
+Pacman died! Score: -493
+1 action: 1
+2 action: 1
+Process 0. Episode 17
+(3, 5)
+FFFFFFF
+FTFTTTF
+FTFFFTF
+FTFFFTF
+FTFFFTF
+FTTFTTF
+FFFFFFF
+Food count: 13
+1 action: 2
+2 action: 2
+1 action: 1
+2 action: 1
+Pacman died! Score: -493
+1 action: 1
+2 action: 1
+Process 0. Episode 18
+(3, 5)
+FFFFFFF
+FTFTTTF
+FTFFFTF
+FTFFFTF
+FTFFFTF
+FTTFTTF
+FFFFFFF
+Food count: 13
+1 action: 2
+2 action: 2
+1 action: 1
+2 action: 1
+Pacman died! Score: -493
+1 action: 1
+2 action: 1
+Process 0. Episode 19
+(3, 5)
+FFFFFFF
+FTFTTTF
+FTFFFTF
+FTFFFTF
+FTFFFTF
+FTTFTTF
+FFFFFFF
+Food count: 13
+1 action: 2
+2 action: 2
+1 action: 1
+2 action: 1
+Pacman died! Score: -493
+1 action: 4
+2 action: 4
+Process 0. Episode 20
+(3, 5)
+FFFFFFF
+FTFTTTF
+FTFFFTF
+FTFFFTF
+FTFFFTF
+FTTFTTF
+FFFFFFF
+Food count: 13
+1 action: 2
+2 action: 2
+1 action: 4
+2 action: 4
+Pacman died! Score: -493
+1 action: 1
+2 action: 1
+Process 0. Episode 21
+(3, 5)
+FFFFFFF
+FTFTTTF
+FTFFFTF
+FTFFFTF
+FTFFFTF
+FTTFTTF
+FFFFFFF
+Food count: 13
+1 action: 2
+2 action: 2
+1 action: 1
+2 action: 1
+Pacman died! Score: -493
+1 action: 1
+2 action: 1
