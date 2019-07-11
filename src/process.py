@@ -4,15 +4,17 @@
 
 import torch
 from src.env import create_train_env
-from src.model import ActorCritic, MnihActorCritic
+
+from src.model import Mnih2016ActorCritic
+AC_NN_MODEL = Mnih2016ActorCritic
+ACTOR_HIDDEN_SIZE=256
+CRITIC_HIDDEN_SIZE=256
+
 import torch.nn.functional as F
 from torch.distributions import Categorical
 from collections import deque
 from tensorboardX import SummaryWriter
 import timeit
-
-ACTOR_HIDDEN_SIZE=256
-CRITIC_HIDDEN_SIZE=256
 
 def local_train(index, opt, global_model, optimizer, save=False):
     torch.manual_seed(123 + index)
@@ -22,7 +24,7 @@ def local_train(index, opt, global_model, optimizer, save=False):
     #env, num_states, num_actions = create_train_env(opt.world, opt.stage, opt.action_type)
     env, num_states, num_actions = create_train_env(opt.layout)
     #local_model = ActorCritic(num_states, num_actions)
-    local_model = MnihActorCritic(num_states, num_actions)
+    local_model = AC_NN_MODEL(num_states, num_actions)
     if opt.use_gpu:
         local_model.cuda()
     local_model.train()
@@ -86,6 +88,8 @@ def local_train(index, opt, global_model, optimizer, save=False):
             # Perform action_t according to policy pi
             # Receive reward r_t and new state s_t+1
             state, reward, done, _ = env.step(action)
+            # render as seen for NN : 
+            env.render(mode = 'human')
             state = torch.from_numpy(state)
             if opt.use_gpu:
                 state = state.cuda()
@@ -162,7 +166,7 @@ def local_test(index, opt, global_model):
     #env, num_states, num_actions = create_train_env(opt.world, opt.stage, opt.action_type)
     env, num_states, num_actions = create_train_env(opt.layout)
     #local_model = ActorCritic(num_states, num_actions)
-    local_model = MnihActorCritic(num_states, num_actions)
+    local_model = AC_NN_MODEL(num_states, num_actions)
     local_model.eval()
     state = torch.from_numpy(env.reset())
     done = True
@@ -186,8 +190,10 @@ def local_test(index, opt, global_model):
         policy = F.softmax(logits, dim=1)
         action = torch.argmax(policy).item()
         state, reward, done, _ = env.step(action)
+        # render as seen for NN : 
         env.render()
         actions.append(action)
+
         if curr_step > opt.num_global_steps or actions.count(actions[0]) == actions.maxlen:
             done = True
         if done:

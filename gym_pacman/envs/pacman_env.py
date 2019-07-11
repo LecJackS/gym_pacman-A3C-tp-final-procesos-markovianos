@@ -3,7 +3,7 @@ from gym import spaces
 from gym.utils import seeding
 import numpy as np
 
-from .graphicsDisplay import PacmanGraphics, DEFAULT_GRID_SIZE
+from .graphicsDisplay import PacmanGraphics, FirstPersonPacmanGraphics, DEFAULT_GRID_SIZE
 
 from .game import Actions
 from .pacman import ClassicGameRules
@@ -56,8 +56,8 @@ class PacmanEnv(gym.Env):
                          shape=(84, 84, 3), dtype=np.uint8)
 
     def __init__(self):
-        self.action_space = spaces.Discrete(4) # up, down, left right
-        self.display = PacmanGraphics(1.0)
+        self.action_space = spaces.Discrete(4) # up, down, left, right
+        self.display = PacmanGraphics(1.0)#PacmanGraphics(1.0)
         self._action_set = range(len(PACMAN_ACTIONS))
         self.location = None
         self.viewer = None
@@ -283,7 +283,8 @@ class PacmanEnv(gym.Env):
     def _get_image(self):
         # get x, y
         image = self.display.image
-
+        #background = Image.new('RGB', image.size, color)
+        # For partial observable environment (crop 'outside view' range)
         w, h = image.size
         DEFAULT_GRID_SIZE_X, DEFAULT_GRID_SIZE_Y = w / float(self.layout.width), h / float(self.layout.height)
         OBS_RANGE_X=1 # observed cells at each side
@@ -297,14 +298,18 @@ class PacmanEnv(gym.Env):
         self.image_sz = (84, 84)
         #image = image.crop(extent).resize(self.image_sz)
         image = image.resize(self.image_sz)
-        return np.array(image)
+        return np.array(image)[:,:,:3] # Remove 4th channel if there is one
 
     def render(self, mode='rgb_array'):
         # Mode:
         # human : show input to network as window
         # rgb_array: hide input to network
         img = self._get_image()
-        mode = 'rgb_array'
+        #has_alpha_channel = True
+        #if has_alpha_channel:
+            # Remove 4th channel
+        #    img = "img[:,:,:2]"
+        mode = 'human'
         if mode == 'rgb_array':
             return img
         elif mode == 'human':

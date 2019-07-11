@@ -53,12 +53,12 @@ class GraphicsUtils:
         self._Windows = sys.platform == 'win32'  # True if on Win95/98/NT
 
         self._root_window = None      # The root window for graphics output
-        self._canvas = None      # The canvas which holds graphics
-        self._canvas_xs = None      # Size of canvas object
+        self._canvas = None           # The canvas which holds graphics
+        self._canvas_xs = None        # Size of canvas object
         self._canvas_ys = None
-        self._canvas_x = None      # Current position on canvas
+        self._canvas_x = None         # Current position on canvas
         self._canvas_y = None
-        self._canvas_col = None      # Current colour (set to black below)
+        self._canvas_col = None       # Current colour (set to black below)
         self._canvas_tsize = 12
         self._canvas_tserifs = 0
 
@@ -78,7 +78,6 @@ class GraphicsUtils:
             # Lose the window.
             self._root_window.destroy()
         
-
         # Save the canvas size parameters
         self._canvas_xs, self._canvas_ys = width - 1, height - 1
         self._canvas_x, self._canvas_y = 0, self._canvas_ys
@@ -87,9 +86,12 @@ class GraphicsUtils:
         # Create the root window
         self._root_window = Tkinter.Tk()
         self.d_o_e = self._root_window.dooneevent
+        # Comment this line to make the window movable
         self._root_window.overrideredirect(1)
         self._root_window.protocol('WM_DELETE_WINDOW', self._destroy_window)
-        # self._root_window.title(title or 'Graphics Window')
+        self._root_window.title(title or 'Graphics Window')
+        #self._root_window.title('Graphics Window')
+        self._root_window.geometry('%dx%d+%d+%d' % (width, height, 130, 30))
         self._root_window.resizable(0, 0)
 
         # Create the canvas object
@@ -108,7 +110,8 @@ class GraphicsUtils:
         except:
             self._root_window = None
             raise
-        
+        # Semi transparent window
+        self._root_window.attributes("-alpha", 0.5)
         if self._Windows:
             self._canvas_tfonts = ['times new roman', 'lucida console']
         else:

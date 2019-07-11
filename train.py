@@ -7,8 +7,10 @@ os.environ['OMP_NUM_THREADS'] = '1'
 import argparse
 import torch
 from src.env import create_train_env
-from src.model import ActorCritic, MnihActorCritic
-from src.optimizer import GlobalAdam
+from src.model import Mnih2016ActorCritic
+AC_NN_MODEL = Mnih2016ActorCritic
+
+from src.optimizer import GlobalRMSProp
 from src.process import local_train, local_test
 import torch.multiprocessing as _mp
 import shutil
@@ -46,7 +48,7 @@ def train(opt):
     mp = _mp.get_context("spawn")
     env, num_states, num_actions = create_train_env(opt.layout)
     #global_model = ActorCritic(num_states, num_actions)
-    global_model = MnihActorCritic(num_states, num_actions)
+    global_model = AC_NN_MODEL(num_states, num_actions)
     if opt.use_gpu:
         global_model.cuda()
     global_model.share_memory()
@@ -72,7 +74,8 @@ def train(opt):
 #                 print("Done.")
 #             else:
 #                 print("Failed.")
-    optimizer = GlobalAdam(global_model.parameters(), lr=opt.lr)
+    #optimizer = GlobalAdam(global_model.parameters(), lr=opt.lr)
+    optimizer = GlobalRMSProp(global_model.parameters(), lr=opt.lr)
     processes = []
     for index in range(opt.num_processes):
         # Multiprocessing async agents

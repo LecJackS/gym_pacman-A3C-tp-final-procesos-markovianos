@@ -2,7 +2,7 @@
     "nghosts": 1, 
     "npellets": 1,
     "food_proportion": 0.9,
-    "by_proportion": true,
+    "by_proportion": false,
     "min_ghost_distance": 2,
     "size": 9,
     "decimate": 1.0
